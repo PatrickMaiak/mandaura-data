@@ -511,51 +511,5 @@
       "https://cdn.jsdelivr.net/gh/PatrickMaiak/mandaura-media@main/img30cm/mandaladopavao1.JPG"
     ],
     "video": "https://cdn.jsdelivr.net/gh/PatrickMaiak/mandaura-media@main/videos%20mandalas%20de%2011cm/Mandala%20flor%20da%20Aurora%2011.mp4"
-  },
-  {
-    "id": 46,
-    "disponibilidade": false,
-    "titulo": "teste",
-    "tamanho": "11 cm",
-    "descricao": "teste",
-    "imagens": [
-      "img11cm/IMG_0725.JPG",
-      "img11cm/IMG_0712.JPG"
-    ],
-    "video": "videos mandalas de 11cm/Mandala flor da Aurora 11.mp4"
-  },
-  {
-    "id": 47,
-    "disponibilidade": false,
-    "titulo": "teste2teste2",
-    "tamanho": "11 cm",
-    "descricao": "teste 2",
-    "imagens": [
-      "img11cm/IMG_0725.JPG"
-    ],
-    "video": ""
-  },
-  {
-    "id": 48,
-    "disponibilidade": false,
-    "titulo": "teste4",
-    "tamanho": "11 cm",
-    "descricao": "teste4",
-    "imagens": [
-      "img11cm/IMG_0441.JPG",
-      "img11cm/IMG_0725.JPG"
-    ],
-    "video": "videos mandalas de 11cm/Mandala Olho Grego 11.mp4"
-  },
-  {
-    "id": 49,
-    "disponibilidade": false,
-    "titulo": "teste 5",
-    "tamanho": "11 cm",
-    "descricao": "teste5",
-    "imagens": [
-      "https://cdn.jsdelivr.net/gh/PatrickMaiak/mandaura-media@main/img11cm/IMG_0675.JPG"
-    ],
-    "video": ""
   }
 ]
