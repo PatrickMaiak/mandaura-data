@@ -372,17 +372,6 @@
   {
     "id": 33,
     "disponibilidade": true,
-    "titulo": "Mandala Árvore da Vida",
-    "tamanho": "15 cm",
-    "descricao": "Símbolo ancestral de conexão entre o céu e a terra, essa mandala representa crescimento, força e renovação. Cada galho e raiz entrelaçado reflete o equilíbrio entre corpo, mente e espírito, lembrando que todas as formas de vida estão interligadas.",
-    "imagens": [
-      "https://cdn.jsdelivr.net/gh/PatrickMaiak/mandaura-media@main/img30cm/mandalaarvoredavida301.JPG"
-    ],
-    "video": "https://cdn.jsdelivr.net/gh/PatrickMaiak/mandaura-media@main/videos%20mandalas%20de%2015cm/Mandala%20Arvore%20da%20vida%2015.mp4"
-  },
-  {
-    "id": 34,
-    "disponibilidade": true,
     "titulo": "Mandala Girassol",
     "tamanho": "11 cm",
     "descricao": "Inspirada no girassol, que sempre busca a luz, esta mandala representa a força do otimismo e da renovação. Sua energia solar aquece o ambiente e desperta a alegria de viver, lembrando que o coração deve sempre se voltar para o brilho do sol interior.",
@@ -392,7 +381,7 @@
     "video": "https://cdn.jsdelivr.net/gh/PatrickMaiak/mandaura-media@main/videos%20mandalas%20de%2011cm/Mandala%20Girassol%2011.mp4"
   },
   {
-    "id": 35,
+    "id": 34,
     "disponibilidade": true,
     "titulo": "Mandala Portal Azul",
     "tamanho": "11 cm",
@@ -403,7 +392,7 @@
     "video": "https://cdn.jsdelivr.net/gh/PatrickMaiak/mandaura-media@main/videos%20mandalas%20de%2011cm/Mandala%20Portal%20Azul%2011.mp4"
   },
   {
-    "id": 36,
+    "id": 35,
     "disponibilidade": true,
     "titulo": "Mandala Harmonia Celeste",
     "tamanho": "11 cm",
@@ -414,7 +403,7 @@
     "video": "https://cdn.jsdelivr.net/gh/PatrickMaiak/mandaura-media@main/videos%20mandalas%20de%2011cm/Mandala%20Harmonia%20Celeste%2011.mp4"
   },
   {
-    "id": 37,
+    "id": 36,
     "disponibilidade": true,
     "titulo": "Mandala Essência da Vitalidade",
     "tamanho": "11 cm",
@@ -425,7 +414,7 @@
     "video": "https://cdn.jsdelivr.net/gh/PatrickMaiak/mandaura-media@main/videos%20mandalas%20de%2011cm/Mandala%20Ess%C3%AAncia%20da%20Vitalidade%2011.mp4"
   },
   {
-    "id": 38,
+    "id": 37,
     "disponibilidade": true,
     "titulo": "Mandala do Sol",
     "tamanho": "11 cm",
@@ -436,7 +425,7 @@
     "video": "https://cdn.jsdelivr.net/gh/PatrickMaiak/mandaura-media@main/videos%20mandalas%20de%2011cm/Mandala%20do%20Sol%2011.mp4"
   },
   {
-    "id": 39,
+    "id": 38,
     "disponibilidade": true,
     "titulo": "Mandala Olho do Cosmos",
     "tamanho": "11 cm",
@@ -447,7 +436,7 @@
     "video": "https://cdn.jsdelivr.net/gh/PatrickMaiak/mandaura-media@main/videos%20mandalas%20de%2011cm/Mandala%20Olho%20do%20Cosmos%2011.mp4"
   },
   {
-    "id": 40,
+    "id": 39,
     "disponibilidade": true,
     "titulo": "Mandala Olho Grego",
     "tamanho": "11 cm",
@@ -458,7 +447,7 @@
     "video": "https://cdn.jsdelivr.net/gh/PatrickMaiak/mandaura-media@main/videos%20mandalas%20de%2011cm/Mandala%20Olho%20Grego%2011.mp4"
   },
   {
-    "id": 41,
+    "id": 40,
     "disponibilidade": true,
     "titulo": "Mandala Essência do Céu",
     "tamanho": "11 cm",
@@ -469,7 +458,7 @@
     "video": "https://cdn.jsdelivr.net/gh/PatrickMaiak/mandaura-media@main/videos%20mandalas%20de%2011cm/Mandala%20Ess%C3%AAncia%20do%20C%C3%A9u%2011.mp4"
   },
   {
-    "id": 42,
+    "id": 41,
     "disponibilidade": true,
     "titulo": "Mandala Essência da Terra",
     "tamanho": "11 cm",
@@ -480,36 +469,14 @@
     "video": "https://cdn.jsdelivr.net/gh/PatrickMaiak/mandaura-media@main/videos%20mandalas%20de%2011cm/Mandala%20Ess%C3%AAncia%20da%20Terra%2011.mp4"
   },
   {
-    "id": 43,
-    "disponibilidade": true,
-    "titulo": "Mandala do Pavão",
+    "id": 42,
+    "disponibilidade": false,
+    "titulo": "teste",
     "tamanho": "11 cm",
-    "descricao": "O pavão é símbolo de beleza, despertar espiritual e autoconfiança. Essa mandala canaliza a energia da abundância e da expressão da alma. Seu brilho e suas cores irradiam autoestima, inspirando quem a contempla a se mostrar em sua melhor versão.",
+    "descricao": "teste",
     "imagens": [
-      "https://cdn.jsdelivr.net/gh/PatrickMaiak/mandaura-media@main/img30cm/mandaladopavao1.JPG"
+      "img11cm/IMG_0725.JPG"
     ],
-    "video": "https://cdn.jsdelivr.net/gh/PatrickMaiak/mandaura-media@main/videos%20mandalas%20de%2011cm/Mandala%20do%20Pav%C3%A3o.mp4"
-  },
-  {
-    "id": 44,
-    "disponibilidade": true,
-    "titulo": "Mandala Azul",
-    "tamanho": "11 cm",
-    "descricao": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque ut neque nec libero varius convallis. Duis tempus velit ac massa feugiat, id malesuada est eleifend. Cras faucibus lacus in justo consectetur, non vehicula dolor scelerisque. Nulla facilisi. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque ut neque nec libero varius convallis. Duis tempus velit ac massa feugiat, id malesuada est eleifend. Cras faucibus lacus in justo consectetur, non vehicula dolor scelerisque. Null",
-    "imagens": [
-      "https://cdn.jsdelivr.net/gh/PatrickMaiak/mandaura-media@main/img30cm/mandaladopavao1.JPG"
-    ],
-    "video": "https://cdn.jsdelivr.net/gh/PatrickMaiak/mandaura-media@main/videos%20mandalas%20de%2011cm/Mandala%20Azul.mp4"
-  },
-  {
-    "id": 45,
-    "disponibilidade": true,
-    "titulo": "Mandala Flor da Aurora",
-    "tamanho": "11 cm",
-    "descricao": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque ut neque nec libero varius convallis. Duis tempus velit ac massa feugiat, id malesuada est eleifend. Cras faucibus lacus in justo consectetur, non vehicula dolor scelerisque. Nulla facilisi. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque ut neque nec libero varius convallis. Duis tempus velit ac massa feugiat, id malesuada est eleifend. Cras faucibus lacus in justo consectetur, non vehicula dolor scelerisque. Null.",
-    "imagens": [
-      "https://cdn.jsdelivr.net/gh/PatrickMaiak/mandaura-media@main/img30cm/mandaladopavao1.JPG"
-    ],
-    "video": "https://cdn.jsdelivr.net/gh/PatrickMaiak/mandaura-media@main/videos%20mandalas%20de%2011cm/Mandala%20flor%20da%20Aurora%2011.mp4"
+    "video": ""
   }
 ]
