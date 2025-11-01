@@ -2,13 +2,14 @@
   {
     "id": 1,
     "disponibilidade": true,
-    "titulo": "Árvore da Vida",
+    "titulo": "Árvore da Vida Vivida",
     "tamanho": "30 cm",
     "descricao": "Símbolo ancestral de conexão entre o céu e a terra, essa mandala representa crescimento, força e renovação. Cada galho e raiz entrelaçado reflete o equilíbrio entre corpo, mente e espírito, lembrando que todas as formas de vida estão interligadas.",
     "imagens": [
-      "https://cdn.jsdelivr.net/gh/PatrickMaiak/mandaura-media@main/img30cm/mandalaarvoredavida301.JPG"
+      "https://cdn.jsdelivr.net/gh/PatrickMaiak/mandaura-media@main/img30cm/mandalaarvoredavida301.JPG",
+      "https://cdn.jsdelivr.net/gh/PatrickMaiak/mandaura-media@main/img11cm/IMG_0676.JPG"
     ],
-    "video": "https://cdn.jsdelivr.net/gh/PatrickMaiak/mandaura-media@main/videos%20mandalas%20de%2030cm/Mandala%20%C3%81rvore%20da%20Vida%2030.mp4"
+    "video": "https://cdn.jsdelivr.net/gh/PatrickMaiak/mandaura-media@main/videos%2520mandalas%2520de%252030cm/Mandala%2520%25C3%2581rvore%2520da%2520Vida%252030.mp4"
   },
   {
     "id": 2,
