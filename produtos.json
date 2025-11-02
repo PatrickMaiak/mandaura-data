@@ -255,9 +255,9 @@
     "tamanho": "15 cm",
     "descricao": "A Flor de Lótus simboliza o renascimento e a pureza espiritual. Esta mandala reflete a jornada da alma que floresce mesmo em meio às águas turvas da vida, trazendo calma, superação e iluminação interior. Ideal para quem busca paz e autoconhecimento.",
     "imagens": [
-      "img15cm/Mandala flor de lotus furta 15cm .jpg"
+      "https://cdn.jsdelivr.net/gh/PatrickMaiak/mandaura-media@main/img15cm/Mandala%20flor%20de%20lotus%20furta%2015cm%20.jpg"
     ],
-    "video": "videos mandalas de 15cm/Mandala Flor de Lótus furta cor 15.mp4"
+    "video": "https://cdn.jsdelivr.net/gh/PatrickMaiak/mandaura-media@main/videos%20mandalas%20de%2015cm/Mandala%20Flor%20de%20L%C3%B3tus%20furta%20cor%2015.mp4"
   },
   {
     "id": 23,
