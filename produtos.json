@@ -511,5 +511,17 @@
       "https://cdn.jsdelivr.net/gh/PatrickMaiak/mandaura-media@main/img11cm/Mandala%20Flor%20da%20Aurora%2011cm.jpg"
     ],
     "video": "https://cdn.jsdelivr.net/gh/PatrickMaiak/mandaura-media@main/videos%2520mandalas%2520de%252011cm/Mandala%2520flor%2520da%2520Aurora%252011.mp4"
+  },
+  {
+    "id": 46,
+    "disponibilidade": true,
+    "titulo": "Mandala da Prosperidade",
+    "tamanho": "30 cm",
+    "descricao": "Com tons vibrantes de amarelo, rosa e verde, a Mandala da Prosperidade representa o florescimento da abundância em todas as formas — material, emocional e espiritual.\nO amarelo irradia luz e vitalidade, o rosa desperta o amor e a gratidão, e o verde simboliza equilíbrio e renovação.\nJuntas, essas cores formam uma energia expansiva e positiva, que inspira crescimento, harmonia e plenitude.",
+    "imagens": [
+      "https://cdn.jsdelivr.net/gh/PatrickMaiak/mandaura-media@main/img30cm/Mandala%20Prosperidade%2030cm.JPG",
+      "https://cdn.jsdelivr.net/gh/PatrickMaiak/mandaura-media@main/img30cm/Mandala%20Prosperidade%2030%202.JPG"
+    ],
+    "video": "https://cdn.jsdelivr.net/gh/PatrickMaiak/mandaura-media@main/videos%20mandalas%20de%2030cm/Mandala%20Prosperidade%2030cm.mov"
   }
 ]
