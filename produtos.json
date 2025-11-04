@@ -486,30 +486,30 @@
     "tamanho": "11 cm",
     "descricao": "O pavão é símbolo de beleza, despertar espiritual e autoconfiança. Essa mandala canaliza a energia da abundância e da expressão da alma. Seu brilho e suas cores irradiam autoestima, inspirando quem a contempla a se mostrar em sua melhor versão.",
     "imagens": [
-      "https://cdn.jsdelivr.net/gh/PatrickMaiak/mandaura-media@main/img30cm/mandaladopavao1.JPG"
+      "https://cdn.jsdelivr.net/gh/PatrickMaiak/mandaura-media@main/img11cm/Mandala%20Pava%CC%83o%2011cm.JPG"
     ],
-    "video": "https://cdn.jsdelivr.net/gh/PatrickMaiak/mandaura-media@main/videos%20mandalas%20de%2011cm/Mandala%20do%20Pav%C3%A3o.mp4"
+    "video": "https://cdn.jsdelivr.net/gh/PatrickMaiak/mandaura-media@main/videos%2520mandalas%2520de%252011cm/Mandala%2520do%2520Pav%25C3%25A3o.mp4"
   },
   {
     "id": 44,
     "disponibilidade": true,
-    "titulo": "Mandala Azul",
+    "titulo": "Mandala Oceano interior",
     "tamanho": "11 cm",
     "descricao": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque ut neque nec libero varius convallis. Duis tempus velit ac massa feugiat, id malesuada est eleifend. Cras faucibus lacus in justo consectetur, non vehicula dolor scelerisque. Nulla facilisi. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque ut neque nec libero varius convallis. Duis tempus velit ac massa feugiat, id malesuada est eleifend. Cras faucibus lacus in justo consectetur, non vehicula dolor scelerisque. Null",
     "imagens": [
-      "https://cdn.jsdelivr.net/gh/PatrickMaiak/mandaura-media@main/img30cm/mandaladopavao1.JPG"
+      "https://cdn.jsdelivr.net/gh/PatrickMaiak/mandaura-media@main/img11cm/Mandala%20Oceano%20Interior%2011cm.jpg"
     ],
-    "video": "https://cdn.jsdelivr.net/gh/PatrickMaiak/mandaura-media@main/videos%20mandalas%20de%2011cm/Mandala%20Azul.mp4"
+    "video": "https://cdn.jsdelivr.net/gh/PatrickMaiak/mandaura-media@main/videos%2520mandalas%2520de%252011cm/Mandala%2520Azul.mp4"
   },
   {
     "id": 45,
     "disponibilidade": true,
     "titulo": "Mandala Flor da Aurora",
     "tamanho": "11 cm",
-    "descricao": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque ut neque nec libero varius convallis. Duis tempus velit ac massa feugiat, id malesuada est eleifend. Cras faucibus lacus in justo consectetur, non vehicula dolor scelerisque. Nulla facilisi. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque ut neque nec libero varius convallis. Duis tempus velit ac massa feugiat, id malesuada est eleifend. Cras faucibus lacus in justo consectetur, non vehicula dolor scelerisque. Null.",
+    "descricao": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque ut neque nec libero varius convallis. Duis tempus velit ac massa feugiat, id malesuada est eleifend. Cras faucibus lacus in justo consectetur, non vehicula dolor scelerisque. Nulla facilisi. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque ut neque nec libero varius convallis. Duis tempus velit ac massa feugiat, id malesuada est eleifend. Cras faucibus lacus in justo consectetur, non vehicula dolor scelerisque. Null..",
     "imagens": [
-      "https://cdn.jsdelivr.net/gh/PatrickMaiak/mandaura-media@main/img30cm/mandaladopavao1.JPG"
+      "https://cdn.jsdelivr.net/gh/PatrickMaiak/mandaura-media@main/img11cm/Mandala%20Flor%20da%20Aurora%2011cm.jpg"
     ],
-    "video": "https://cdn.jsdelivr.net/gh/PatrickMaiak/mandaura-media@main/videos%20mandalas%20de%2011cm/Mandala%20flor%20da%20Aurora%2011.mp4"
+    "video": "https://cdn.jsdelivr.net/gh/PatrickMaiak/mandaura-media@main/videos%2520mandalas%2520de%252011cm/Mandala%2520flor%2520da%2520Aurora%252011.mp4"
   }
 ]
