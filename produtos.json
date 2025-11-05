@@ -8,9 +8,10 @@
     "imagens": [
       "https://cdn.jsdelivr.net/gh/patrickmaiak/mandaura-media/img30cm/mandalaarvoredavida301.jpg"
     ],
-    "video": "https://cdn.jsdelivr.net/gh/patrickmaiak/mandaura-media@main/videos30cm/mandala-arvore-da-vida-30.mp4"
+    "video": "https://cdn.jsdelivr.net/gh/PatrickMaiak/mandaura-media@main/videos30cm/mandala-arvore-da-vida-30.mp4"
   },
   {
+    "id": 0,
     "disponibilidade": true,
     "titulo": "Mandala Harmonia Celeste",
     "tamanho": "30 cm",
@@ -19,7 +20,7 @@
       "https://cdn.jsdelivr.net/gh/patrickmaiak/mandaura-media/img30cm/mandalaazuleverde1.jpg",
       "https://cdn.jsdelivr.net/gh/patrickmaiak/mandaura-media/img30cm/mandalaazuleverde2.jpg"
     ],
-    "video": "https://cdn.jsdelivr.net/gh/patrickmaiak/mandaura-media/videos30cm/mandala20harmonia20celeste2030.mp4"
+    "video": "https://cdn.jsdelivr.net/gh/PatrickMaiak/mandaura-media@main/videos30cm/mandala-harmonia-celeste-30.mp4"
   },
   {
     "id": 3,
@@ -31,7 +32,7 @@
       "https://cdn.jsdelivr.net/gh/patrickmaiak/mandaura-media/img30cm/mandalacolorida1.jpg",
       "https://cdn.jsdelivr.net/gh/patrickmaiak/mandaura-media/img30cm/mandalacolorida2.jpg"
     ],
-    "video": "https://cdn.jsdelivr.net/gh/patrickmaiak/mandaura-media/videos30cm/mandala20essc3aancia20da20vitalidade2030.mp4"
+    "video": "https://cdn.jsdelivr.net/gh/PatrickMaiak/mandaura-media@main/videos30cm/mandala-essencia-da-vitalidade-30.mp4"
   },
   {
     "id": 4,
@@ -43,7 +44,7 @@
       "https://cdn.jsdelivr.net/gh/patrickmaiak/mandaura-media/img30cm/mandaladacobra1.jpg",
       "https://cdn.jsdelivr.net/gh/patrickmaiak/mandaura-media/img30cm/mandaladacobra2.jpg"
     ],
-    "video": "https://cdn.jsdelivr.net/gh/patrickmaiak/mandaura-media/videos30cm/mandala20forc3a7a20da20serpente2030.mp4"
+    "video": "https://cdn.jsdelivr.net/gh/PatrickMaiak/mandaura-media@main/videos30cm/mandala-forca-da-serpente-30.mp4"
   },
   {
     "id": 5,
@@ -246,6 +247,18 @@
       "https://cdn.jsdelivr.net/gh/patrickmaiak/mandaura-media/img30cm/maodefatimade302.jpg"
     ],
     "video": "https://cdn.jsdelivr.net/gh/patrickmaiak/mandaura-media/videos30cm/mc3a3o20de20fc3a1tima2030202.mp4"
+  },
+  {
+    "id": 46,
+    "disponibilidade": true,
+    "titulo": "Mandala da Prosperidade",
+    "tamanho": "30 cm",
+    "descricao": "Com tons vibrantes de amarelo, rosa e verde, a Mandala da Prosperidade representa o florescimento da abundância em todas as formas — material, emocional e espiritual.\nO amarelo irradia luz e vitalidade, o rosa desperta o amor e a gratidão, e o verde simboliza equilíbrio e renovação.\nJuntas, essas cores formam uma energia expansiva e positiva, que inspira crescimento, harmonia e plenitude.",
+    "imagens": [
+      "https://cdn.jsdelivr.net/gh/patrickmaiak/mandaura-media/img30cm/mandala20prosperidade2030cm.jpg",
+      "https://cdn.jsdelivr.net/gh/patrickmaiak/mandaura-media/img30cm/mandala20prosperidade2030202.jpg"
+    ],
+    "video": "https://cdn.jsdelivr.net/gh/patrickmaiak/mandaura-media/videos30cm/mandala20prosperidade2030cm.mov"
   },
   {
     "id": 22,
@@ -510,17 +523,5 @@
       "https://cdn.jsdelivr.net/gh/patrickmaiak/mandaura-media/img11cm/mandala20flor20da20aurora2011cm.jpg"
     ],
     "video": "https://cdn.jsdelivr.net/gh/patrickmaiak/mandaura-media/videos20mandalas20de2011cm/mandala2520flor2520da2520aurora252011.mp4"
-  },
-  {
-    "id": 46,
-    "disponibilidade": true,
-    "titulo": "Mandala da Prosperidade",
-    "tamanho": "30 cm",
-    "descricao": "Com tons vibrantes de amarelo, rosa e verde, a Mandala da Prosperidade representa o florescimento da abundância em todas as formas — material, emocional e espiritual.\nO amarelo irradia luz e vitalidade, o rosa desperta o amor e a gratidão, e o verde simboliza equilíbrio e renovação.\nJuntas, essas cores formam uma energia expansiva e positiva, que inspira crescimento, harmonia e plenitude.",
-    "imagens": [
-      "https://cdn.jsdelivr.net/gh/patrickmaiak/mandaura-media/img30cm/mandala20prosperidade2030cm.jpg",
-      "https://cdn.jsdelivr.net/gh/patrickmaiak/mandaura-media/img30cm/mandala20prosperidade2030202.jpg"
-    ],
-    "video": "https://cdn.jsdelivr.net/gh/patrickmaiak/mandaura-media/videos30cm/mandala20prosperidade2030cm.mov"
   }
 ]
