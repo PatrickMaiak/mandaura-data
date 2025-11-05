@@ -109,9 +109,9 @@
   {
     "id": 10,
     "disponibilidade": true,
-    "titulo": "Mandala Serenidade",
+    "titulo": "Mandala da Serenidade",
     "tamanho": "30 cm",
-    "descricao": "A Mandala Serenidade expressa calma, harmonia e equilíbrio interior. Seus tons de azul e turquesa remetem à fluidez da água e à imensidão do céu, transmitindo leveza e paz. Ela convida ao silêncio interior e à tranquilidade da mente, ideal para quem busca um refúgio de paz em meio ao movimento da vida.",
+    "descricao": "Esta mandala transmite calma, harmonia e equilíbrio interior. Seus tons de azul e turquesa remetem à fluidez da água e à imensidão do céu, transmitindo leveza e paz. Ela convida ao silêncio interior e à tranquilidade da mente, ideal para quem busca um refúgio de paz em meio ao movimento da vida.",
     "imagens": [
       "https://cdn.jsdelivr.net/gh/patrickmaiak/mandaura-media/img30cm/mandalaflorazul1.jpg",
       "https://cdn.jsdelivr.net/gh/patrickmaiak/mandaura-media/img30cm/mandalaflorazul2.jpg"
@@ -340,9 +340,9 @@
   {
     "id": 29,
     "disponibilidade": true,
-    "titulo": "Mandala Serenidade",
+    "titulo": "Mandala da Serenidade",
     "tamanho": "15 cm",
-    "descricao": "A Mandala Serenidade expressa calma, harmonia e equilíbrio interior. Seus tons de azul e turquesa remetem à fluidez da água e à imensidão do céu, transmitindo leveza e paz. Ela convida ao silêncio interior e à tranquilidade da mente, ideal para quem busca um refúgio de paz em meio ao movimento da vida.",
+    "descricao": "Esta mandala transmite calma, harmonia e equilíbrio interior. Seus tons de azul e turquesa remetem à fluidez da água e à imensidão do céu, transmitindo leveza e paz. Ela convida ao silêncio interior e à tranquilidade da mente, ideal para quem busca um refúgio de paz em meio ao movimento da vida.",
     "imagens": [
       "https://cdn.jsdelivr.net/gh/PatrickMaiak/mandaura-media@main/img15cm/mandala-flor-azul-15cm.jpg"
     ],
