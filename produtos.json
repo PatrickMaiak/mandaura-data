@@ -263,7 +263,7 @@
   {
     "id": 22,
     "disponibilidade": true,
-    "titulo": "Flor de Lótus furta cor",
+    "titulo": "Flor de Lótus furta-cor",
     "tamanho": "15 cm",
     "descricao": "A Flor de Lótus simboliza o renascimento e a pureza espiritual. Esta mandala reflete a jornada da alma que floresce mesmo em meio às águas turvas da vida, trazendo calma, superação e iluminação interior. Ideal para quem busca paz e autoconhecimento.",
     "imagens": [
@@ -287,7 +287,7 @@
     "disponibilidade": true,
     "titulo": "Mandala Coração de Fogo",
     "tamanho": "15 cm",
-    "descricao": "Esta mandala representa o poder que nasce no centro do ser — o fogo sagrado que protege, guia e transforma. Suas cores vermelhas e amarelas irradiam coragem, paixão e presença, lembrando que a verdadeira força vem de dentro. Coração de Fogo é o símbolo da alma que não se apaga, da luz interior que aquece, renova e mantém viva a essência de quem somos.",
+    "descricao": "Intensa, vibrante e cheia de vida! Essa mandala representa o fogo sagrado que habita o centro do ser — a chama que protege, transforma e desperta a coragem interior. Ela simboliza a paixão, a presença e a força que nasce do coração em plenitude. Um lembrete de que o verdadeiro poder é a luz que arde dentro de nós, mantendo viva a essência e o calor da alma.",
     "imagens": [
       "https://cdn.jsdelivr.net/gh/PatrickMaiak/mandaura-media@main/img15cm/mandala-vermelha-e-amarela-15cm.jpg"
     ],
@@ -298,7 +298,7 @@
     "disponibilidade": true,
     "titulo": "Mandala Guardiã do Céu",
     "tamanho": "15 cm",
-    "descricao": "Esta mandala simboliza a força silenciosa que protege e guia. Seus tons de azul profundo e amarelo revelam a união entre o espiritual e o terreno — o equilíbrio entre a mente serena e a luz da sabedoria. Guardiã do Céu representa proteção divina, clareza mental e expansão da consciência. É um amuleto visual que inspira confiança, serenidade e a sensação de estar envolto pela energia suave do universo.",
+    "descricao": "Serena, protetora e cheia de luz! Essa mandala representa a força silenciosa que envolve e guia o espírito. Ela simboliza o equilíbrio entre o que é terreno e o que é divino — a harmonia entre a mente tranquila e a sabedoria que vem do alto. Um lembrete de que estamos sempre amparados pela energia sutil do universo, onde a paz interior se torna nossa maior proteção.",
     "imagens": [
       "https://cdn.jsdelivr.net/gh/PatrickMaiak/mandaura-media@main/img15cm/mandala-lagarto-15cm.jpg"
     ],
@@ -355,9 +355,9 @@
     "tamanho": "15 cm",
     "descricao": "Esta mandala reflete a pureza e o frescor do amanhecer. Seus tons de amarelo e rosa irradiam calor, alegria e renovação — como os primeiros raios de sol que tocam a terra e despertam a vida. Luz da Manhã inspira otimismo e presença, convidando a alma a florescer em cada novo dia com energia suave e esperançosa.",
     "imagens": [
-      "https://cdn.jsdelivr.net/gh/patrickmaiak/mandaura-media/img15cm/mandala20rosa20e20amarelo2015cm.jpg"
+      "https://cdn.jsdelivr.net/gh/PatrickMaiak/mandaura-media@main/img15cm/mandala-rosa-e-amarelo-15cm.jpg"
     ],
-    "video": "https://cdn.jsdelivr.net/gh/patrickmaiak/mandaura-media/videos15cm/mandala20luz20da20manhc3a32015.mp4"
+    "video": "https://cdn.jsdelivr.net/gh/PatrickMaiak/mandaura-media@main/videos15cm/mandala-luz-da-manha-15.mp4"
   },
   {
     "id": 31,
@@ -366,9 +366,9 @@
     "tamanho": "15 cm",
     "descricao": "Esta mandala reflete a luz que habita dentro de cada ser, como uma estrela silenciosa no vasto universo interior. Seus tons de roxo e violeta representam a intuição, a espiritualidade e o despertar da consciência. Alma Estelar é um portal de calma e expansão — um lembrete de que somos feitos da mesma essência que brilha no céu, guiados pela energia da sabedoria e da harmonia cósmica.",
     "imagens": [
-      "https://cdn.jsdelivr.net/gh/patrickmaiak/mandaura-media/img15cm/mandala20roxa2015cm.jpg"
+      "https://cdn.jsdelivr.net/gh/PatrickMaiak/mandaura-media@main/img15cm/mandala-roxa-15cm.jpg"
     ],
-    "video": "https://cdn.jsdelivr.net/gh/patrickmaiak/mandaura-media/videos15cm/mandala20alma20estelar2015.mp4"
+    "video": "https://cdn.jsdelivr.net/gh/PatrickMaiak/mandaura-media@main/videos15cm/mandala-alma-estelar-15.mp4"
   },
   {
     "id": 32,
@@ -377,9 +377,9 @@
     "tamanho": "15 cm",
     "descricao": "Cores que dançam em harmonia formam esta mandala vibrante, como um vitral iluminado pelo sol. Cada tom reflete equilíbrio e alegria, criando uma energia suave que revitaliza o ambiente. Jardim de Luz representa diversidade, união e a beleza de cada parte que compõe o todo — uma celebração da vida em cores.",
     "imagens": [
-      "https://cdn.jsdelivr.net/gh/patrickmaiak/mandaura-media/img15cm/mandala20vitral2015cm.jpg"
+      "https://cdn.jsdelivr.net/gh/PatrickMaiak/mandaura-media@main/img15cm/mandala-vitral-15cm.jpg"
     ],
-    "video": "https://cdn.jsdelivr.net/gh/patrickmaiak/mandaura-media/videos15cm/mandala20jardim20de20luz2015.mp4"
+    "video": "https://cdn.jsdelivr.net/gh/PatrickMaiak/mandaura-media@main/videos15cm/mandala-jardim-de-luz-15.mp4"
   },
   {
     "id": 33,
@@ -390,7 +390,7 @@
     "imagens": [
       "https://cdn.jsdelivr.net/gh/patrickmaiak/mandaura-media/img30cm/mandalaarvoredavida301.jpg"
     ],
-    "video": "https://cdn.jsdelivr.net/gh/patrickmaiak/mandaura-media/videos15cm/mandala20arvore20da20vida2015.mp4"
+    "video": "https://cdn.jsdelivr.net/gh/PatrickMaiak/mandaura-media@main/videos15cm/mandala-arvore-da-vida-15.mp4"
   },
   {
     "id": 34,
