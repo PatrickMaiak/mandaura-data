@@ -309,22 +309,22 @@
     "disponibilidade": true,
     "titulo": "Mandala Alegria Solar",
     "tamanho": "15 cm",
-    "descricao": "Com tons vibrantes de vermelho, azul, verde e amarelo, essa mandala representa o despertar da luz interior. Ela simboliza a energia vital que irradia do coração quando a alma encontra equilíbrio e leveza. Esta peça emana vibrações de alegria, inspiração e expansão espiritual — perfeita para ambientes que precisam de cor, vida e boas energias.",
+    "descricao": "Viva, expansiva e cheia de luz! Essa mandala é o reflexo da energia solar que habita em cada ser. Representa o renascimento diário, a força criadora e o poder da alegria como cura. Suas cores vibrantes se entrelaçam como raios que aquecem o corpo e iluminam a mente — um lembrete de que o brilho interior é a chama que mantém a vida em movimento.",
     "imagens": [
-      "https://cdn.jsdelivr.net/gh/patrickmaiak/mandaura-media/img15cm/mandala20do20palhaco2015cm.jpg"
+      "https://cdn.jsdelivr.net/gh/PatrickMaiak/mandaura-media@main/img15cm/mandala-do-palhaco-15cm.jpg"
     ],
-    "video": "https://cdn.jsdelivr.net/gh/patrickmaiak/mandaura-media/videos15cm/mandala20alegria20solar2015.mp4"
+    "video": "https://cdn.jsdelivr.net/gh/PatrickMaiak/mandaura-media@main/videos15cm/mandala-alegria-solar-15.mp4"
   },
   {
     "id": 27,
     "disponibilidade": true,
     "titulo": "Mandala do Sol",
     "tamanho": "15 cm",
-    "descricao": "Fonte de luz e vitalidade, a Mandala do Sol desperta prosperidade, alegria e clareza interior. Seus tons vibrantes irradiam o poder da criação e o calor da vida que pulsa em cada ser, lembrando que a verdadeira força vem de dentro. Um símbolo de expansão e equilíbrio — um convite para brilhar com autenticidade e plenitude.",
+    "descricao": "Fonte de luz e vitalidade, a Mandala do Sol desperta prosperidade, alegria e clareza interior. Seus tons vibrantes irradiam o poder da criação e o calor da vida que pulsa em cada ser, lembrando que a verdadeira força vem de dentro.",
     "imagens": [
-      "https://cdn.jsdelivr.net/gh/patrickmaiak/mandaura-media/img15cm/mandala20do20sol2015cm.jpg"
+      "https://cdn.jsdelivr.net/gh/PatrickMaiak/mandaura-media@main/img15cm/mandala-do-sol-15cm.jpg"
     ],
-    "video": "https://cdn.jsdelivr.net/gh/patrickmaiak/mandaura-media/videos15cm/mandala20do20sol2015.mp4"
+    "video": "https://cdn.jsdelivr.net/gh/PatrickMaiak/mandaura-media@main/videos15cm/mandala-do-sol-15.mp4"
   },
   {
     "id": 28,
@@ -333,20 +333,20 @@
     "tamanho": "15 cm",
     "descricao": "Suave como a brisa que toca as folhas, esta mandala traz a energia da leveza e do equilíbrio. Seus tons de azul refletem calma, cura e liberdade interior, como um vento que limpa e renova. Sopro Azul é um convite ao silêncio e à fluidez — uma lembrança de que a força também habita na suavidade e no movimento sereno da vida.",
     "imagens": [
-      "https://cdn.jsdelivr.net/gh/patrickmaiak/mandaura-media/img15cm/mandala20estrela20azul2015cm.jpg"
+      "https://cdn.jsdelivr.net/gh/PatrickMaiak/mandaura-media@main/img15cm/mandala-estrela-azul-15cm.jpg"
     ],
-    "video": "https://cdn.jsdelivr.net/gh/patrickmaiak/mandaura-media/videos15cm/mandala20sopro20azul2015.mp4"
+    "video": "https://cdn.jsdelivr.net/gh/PatrickMaiak/mandaura-media@main/videos15cm/mandala-sopro-azul-15.mp4"
   },
   {
     "id": 29,
     "disponibilidade": true,
-    "titulo": "Mandala Flor Azul",
+    "titulo": "Mandala Serenidade",
     "tamanho": "15 cm",
-    "descricao": "Delicada e profunda, a Mandala Flor Azul simboliza tranquilidade e sabedoria interior. Seu azul espiritual acalma o coração e inspira confiança. Uma mandala para quem busca leveza e quer se reconectar com a serenidade da própria essência.",
+    "descricao": "A Mandala Serenidade expressa calma, harmonia e equilíbrio interior. Seus tons de azul e turquesa remetem à fluidez da água e à imensidão do céu, transmitindo leveza e paz. Ela convida ao silêncio interior e à tranquilidade da mente, ideal para quem busca um refúgio de paz em meio ao movimento da vida.",
     "imagens": [
-      "https://cdn.jsdelivr.net/gh/patrickmaiak/mandaura-media/img15cm/mandala20flor20azul2015cm.jpg"
+      "https://cdn.jsdelivr.net/gh/PatrickMaiak/mandaura-media@main/img15cm/mandala-flor-azul-15cm.jpg"
     ],
-    "video": "https://cdn.jsdelivr.net/gh/patrickmaiak/mandaura-media/videos15cm/mandala20flor20azul2015.mp4"
+    "video": "https://cdn.jsdelivr.net/gh/PatrickMaiak/mandaura-media@main/videos15cm/mandala-flor-azul-15.mp4"
   },
   {
     "id": 30,
