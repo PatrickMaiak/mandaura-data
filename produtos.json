@@ -309,6 +309,7 @@
     "titulo": "Mandala Flor de Lótus furta-cor",
     "tamanho": "15 cm",
     "descricao": "A Flor de Lótus simboliza o renascimento e a pureza espiritual. Esta mandala reflete a jornada da alma que floresce mesmo em meio às águas turvas da vida, trazendo calma, superação e iluminação interior. Ideal para quem busca paz e autoconhecimento.",
+    "preco": 129,
     "imagens": [
       "https://cdn.jsdelivr.net/gh/patrickmaiak/mandaura-media/img15cm/mandala-flor-de-lotus-furta-15cm-.jpg",
       "https://cdn.jsdelivr.net/gh/PatrickMaiak/mandaura-media@main/img15cm/pendulo-gota.jpg"
@@ -321,6 +322,7 @@
     "titulo": "Mandala Alma Colorida",
     "tamanho": "15 cm",
     "descricao": "Cheia de movimento e expressividade, esta mandala é pura celebração da existência. Suas cores intensas e contrastantes evocam liberdade, arte e alegria genuína. Alma Colorida é um lembrete de que viver também é brincar, criar e espalhar luz com autenticidade e espontaneidade.",
+    "preco": 149,
     "imagens": [
       "https://cdn.jsdelivr.net/gh/PatrickMaiak/mandaura-media@main/img15cm/mandala-alergia-circense-15cm.jpg",
       "https://cdn.jsdelivr.net/gh/PatrickMaiak/mandaura-media@main/img15cm/esp.-15cm-verde.jpg"
@@ -333,6 +335,7 @@
     "titulo": "Mandala Coração de Fogo",
     "tamanho": "15 cm",
     "descricao": "Intensa, vibrante e cheia de vida! Esta mandala representa o fogo sagrado que habita o centro do ser — a chama que protege, transforma e desperta a coragem interior. Ela simboliza a paixão, a presença e a força que nasce do coração em plenitude. Um lembrete de que o verdadeiro poder é a luz que arde dentro de nós, mantendo viva a essência e o calor da alma.",
+    "preco": 149,
     "imagens": [
       "https://cdn.jsdelivr.net/gh/PatrickMaiak/mandaura-media@main/img15cm/mandala-vermelha-e-amarela-15cm.jpg",
       "https://cdn.jsdelivr.net/gh/PatrickMaiak/mandaura-media@main/img15cm/esp.-15cm-amarelo.jpg"
@@ -345,6 +348,7 @@
     "titulo": "Mandala da Expansão",
     "tamanho": "15 cm",
     "descricao": "Radiante e viva, esta mandala simboliza o crescimento da luz que parte do centro e se espalha em todas as direções. Representa o despertar da consciência, o florescer do espírito e o poder de se abrir para o novo. Um convite para viver em movimento, em constante transformação e harmonia com o todo.",
+    "preco": 149,
     "imagens": [
       "https://cdn.jsdelivr.net/gh/PatrickMaiak/mandaura-media@main/img15cm/mandala-lagarto-15cm.jpg",
       "https://cdn.jsdelivr.net/gh/PatrickMaiak/mandaura-media@main/img15cm/esp.-15cm-azul-claro.jpg"
@@ -357,6 +361,7 @@
     "titulo": "Mandala Alegria Solar",
     "tamanho": "15 cm",
     "descricao": "Viva, expansiva e cheia de luz! Esta mandala é o reflexo da energia solar que habita em cada ser. Representa o renascimento diário, a força criadora e o poder da alegria como cura. Suas cores vibrantes se entrelaçam como raios que aquecem o corpo e iluminam a mente — um lembrete de que o brilho interior é a chama que mantém a vida em movimento.",
+    "preco": 149,
     "imagens": [
       "https://cdn.jsdelivr.net/gh/PatrickMaiak/mandaura-media@main/img15cm/mandala-do-palhaco-15cm.jpg",
       "https://cdn.jsdelivr.net/gh/PatrickMaiak/mandaura-media@main/img15cm/esp.-15cm-verde.jpg"
@@ -369,6 +374,7 @@
     "titulo": "Mandala do Sol",
     "tamanho": "15 cm",
     "descricao": "Fonte de luz e vitalidade, a Mandala do Sol desperta prosperidade, alegria e clareza interior. Seus tons vibrantes irradiam o poder da criação e o calor da vida que pulsa em cada ser, lembrando que a verdadeira força vem de dentro.",
+    "preco": 149,
     "imagens": [
       "https://cdn.jsdelivr.net/gh/PatrickMaiak/mandaura-media@main/img15cm/mandala-do-sol-15cm.jpg",
       "https://cdn.jsdelivr.net/gh/PatrickMaiak/mandaura-media@main/img15cm/esp.-15cm-verde.jpg"
@@ -381,6 +387,7 @@
     "titulo": "Mandala Sopro Azul",
     "tamanho": "15 cm",
     "descricao": "Suave como a brisa que toca as folhas, esta mandala traz a energia da leveza e do equilíbrio. Seus tons de azul refletem calma, cura e liberdade interior, como um vento que limpa e renova. Sopro Azul é um convite ao silêncio e à fluidez — uma lembrança de que a força também habita na suavidade e no movimento sereno da vida.",
+    "preco": 149,
     "imagens": [
       "https://cdn.jsdelivr.net/gh/PatrickMaiak/mandaura-media@main/img15cm/mandala-estrela-azul-15cm.jpg",
       "https://cdn.jsdelivr.net/gh/PatrickMaiak/mandaura-media@main/img15cm/esp.-15cm-azul-escuro-.jpg"
@@ -393,6 +400,7 @@
     "titulo": "Mandala da Serenidade",
     "tamanho": "15 cm",
     "descricao": "Esta mandala transmite calma, harmonia e equilíbrio interior. Seus tons de azul e turquesa remetem à fluidez da água e à imensidão do céu, transmitindo leveza e paz. Ela convida ao silêncio interior e à tranquilidade da mente, ideal para quem busca um refúgio de paz em meio ao movimento da vida.",
+    "preco": 149,
     "imagens": [
       "https://cdn.jsdelivr.net/gh/PatrickMaiak/mandaura-media@main/img15cm/mandala-flor-azul-15cm.jpg",
       "https://cdn.jsdelivr.net/gh/PatrickMaiak/mandaura-media@main/img15cm/esp.-15cm-azul-claro.jpg"
@@ -405,6 +413,7 @@
     "titulo": "Mandala Alegria Divina",
     "tamanho": "15 cm",
     "descricao": "Brilhante, viva e cheia de energia! Essa mandala é a celebração da alegria em sua forma mais pura — aquela que nasce da alma e se expande em luz. Alegria Divina representa o sorriso do espírito, o calor do coração desperto e a lembrança de que a felicidade verdadeira floresce de dentro para fora.",
+    "preco": 149,
     "imagens": [
       "https://cdn.jsdelivr.net/gh/PatrickMaiak/mandaura-media@main/img15cm/mandala-rosa-e-amarelo-15cm.jpg",
       "https://cdn.jsdelivr.net/gh/PatrickMaiak/mandaura-media@main/img15cm/esp.-15cm-rosa.jpg"
@@ -417,6 +426,7 @@
     "titulo": "Mandala Essência Cósmica",
     "tamanho": "15 cm",
     "descricao": "Essa mandala simboliza a energia do cosmos em expansão — o ponto onde o invisível se torna presença e o espírito toca a imensidão. Representa a conexão entre a alma e o universo, o fluxo silencioso que une tudo o que existe. Essência Cósmica é o espelho daquilo que somos: parte do infinito em constante despertar.",
+    "preco": 149,
     "imagens": [
       "https://cdn.jsdelivr.net/gh/PatrickMaiak/mandaura-media@main/img15cm/mandala-roxa-15cm.jpg",
       "https://cdn.jsdelivr.net/gh/PatrickMaiak/mandaura-media@main/img15cm/esp.-15cm-roxo.jpg"
@@ -429,6 +439,7 @@
     "titulo": "Mandala Jardim de Luz",
     "tamanho": "15 cm",
     "descricao": "Cores que dançam em harmonia formam esta mandala vibrante, como um vitral iluminado pelo sol. Cada tom reflete equilíbrio e alegria, criando uma energia suave que revitaliza o ambiente. Jardim de Luz representa diversidade, união e a beleza de cada parte que compõe o todo — uma celebração da vida em cores.",
+    "preco": 149,
     "imagens": [
       "https://cdn.jsdelivr.net/gh/PatrickMaiak/mandaura-media@main/img15cm/mandala-vitral-15cm.jpg",
       "https://cdn.jsdelivr.net/gh/PatrickMaiak/mandaura-media@main/img15cm/esp.-15cm-verde.jpg"
@@ -441,6 +452,7 @@
     "titulo": "Mandala Árvore da Vida",
     "tamanho": "15 cm",
     "descricao": "Símbolo ancestral de conexão entre o céu e a terra, essa mandala representa crescimento, força e renovação. Cada galho e raiz entrelaçado reflete o equilíbrio entre corpo, mente e espírito, lembrando que todas as formas de vida estão interligadas.",
+    "preco": 129,
     "imagens": [
       "https://cdn.jsdelivr.net/gh/patrickmaiak/mandaura-media/img30cm/mandalaarvoredavida301.jpg",
       "https://cdn.jsdelivr.net/gh/PatrickMaiak/mandaura-media@main/img15cm/esp.-7-chakras.jpg"
