@@ -198,7 +198,7 @@
   "video" : "https://cdn.jsdelivr.net/gh/PatrickMaiak/mandaura-media@main/videos30cm/mandala-prosperidade.mp4"
 }, {
   "id" : 22,
-  "disponibilidade" : true,
+  "disponibilidade" : false,
   "titulo" : "Mandala Flor de Lótus furta-cor",
   "tamanho" : "15 cm",
   "descricao" : "A Flor de Lótus simboliza o renascimento e a pureza espiritual. Esta mandala reflete a jornada da alma que floresce mesmo em meio às águas turvas da vida, trazendo calma, superação e iluminação interior. Ideal para quem busca paz e autoconhecimento.",
