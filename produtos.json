@@ -279,7 +279,7 @@
   "video" : "https://cdn.jsdelivr.net/gh/PatrickMaiak/mandaura-media@main/videos15cm/mandala-luz-da-manha-15.mp4"
 }, {
   "id" : 31,
-  "disponibilidade" : true,
+  "disponibilidade" : false,
   "titulo" : "Mandala Essência Cósmica",
   "tamanho" : "15 cm",
   "descricao" : "Essa mandala simboliza a energia do cosmos em expansão — o ponto onde o invisível se torna presença e o espírito toca a imensidão. Representa a conexão entre a alma e o universo, o fluxo silencioso que une tudo o que existe. Essência Cósmica é o espelho daquilo que somos: parte do infinito em constante despertar.",
