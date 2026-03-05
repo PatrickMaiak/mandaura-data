@@ -414,7 +414,7 @@
   "video" : "https://cdn.jsdelivr.net/gh/PatrickMaiak/mandaura-media@main/videos11cm/mandala-flor-da-aurora-11.mp4"
 }, {
   "id" : 47,
-  "disponibilidade" : true,
+  "disponibilidade" : false,
   "titulo" : "Mandala da Expansão",
   "tamanho" : "11 cm",
   "descricao" : "Radiante e viva, esta mandala simboliza o crescimento da luz que parte do centro e se espalha em todas as direções. Representa o despertar da consciência, o florescer do espírito e o poder de se abrir para o novo. Um convite para viver em movimento, em constante transformação e harmonia com o todo.",
