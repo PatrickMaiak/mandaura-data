@@ -360,7 +360,7 @@
   "video" : "https://cdn.jsdelivr.net/gh/PatrickMaiak/mandaura-media@main/videos11cm/mandala-olho-do-cosmos-11.mp4"
 }, {
   "id" : 40,
-  "disponibilidade" : true,
+  "disponibilidade" : false,
   "titulo" : "Mandala Olho Grego",
   "tamanho" : "11 cm",
   "descricao" : "Símbolo ancestral de proteção e luz, esta mandala guarda em suas camadas o poder de afastar energias densas e atrair boas vibrações. Olho Grego é um amuleto de clareza e proteção — um lembrete de que o verdadeiro escudo está na pureza do olhar e na paz interior.",
