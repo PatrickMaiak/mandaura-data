@@ -360,7 +360,7 @@
   "video" : "https://cdn.jsdelivr.net/gh/PatrickMaiak/mandaura-media@main/videos11cm/mandala-olho-do-cosmos-11.mp4"
 }, {
   "id" : 40,
-  "disponibilidade" : false,
+  "disponibilidade" : true,
   "titulo" : "Mandala Olho Grego",
   "tamanho" : "11 cm",
   "descricao" : "Símbolo ancestral de proteção e luz, esta mandala guarda em suas camadas o poder de afastar energias densas e atrair boas vibrações. Olho Grego é um amuleto de clareza e proteção — um lembrete de que o verdadeiro escudo está na pureza do olhar e na paz interior.",
@@ -414,7 +414,7 @@
   "video" : "https://cdn.jsdelivr.net/gh/PatrickMaiak/mandaura-media@main/videos11cm/mandala-flor-da-aurora-11.mp4"
 }, {
   "id" : 47,
-  "disponibilidade" : false,
+  "disponibilidade" : true,
   "titulo" : "Mandala da Expansão",
   "tamanho" : "11 cm",
   "descricao" : "Radiante e viva, esta mandala simboliza o crescimento da luz que parte do centro e se espalha em todas as direções. Representa o despertar da consciência, o florescer do espírito e o poder de se abrir para o novo. Um convite para viver em movimento, em constante transformação e harmonia com o todo.",
