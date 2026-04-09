@@ -210,7 +210,7 @@
   "disponibilidade" : true,
   "titulo" : "Mandala Alma Colorida",
   "tamanho" : "15 cm",
-  "descricao" : "Cheia de movimento e expressividade, esta mandala é pura celebração da existência. Suas cores intensas e contrastantes evocam liberdade, arte e alegria genuína. Alma Colorida é um lembrete de que viver também é brincar, criar e espalhar luz com autenticidade e espontaneidade.",
+  "descricao" : "Representa expressão, liberdade, criatividade e alegria.",
   "preco" : 149,
   "imagens" : [ "https://cdn.jsdelivr.net/gh/PatrickMaiak/mandaura-media@main/img15cm/mandala-alergia-circense-15cm.jpg", "https://cdn.jsdelivr.net/gh/PatrickMaiak/mandaura-media@main/img15cm/esp.-15cm-verde.jpg" ],
   "video" : "https://cdn.jsdelivr.net/gh/PatrickMaiak/mandaura-media@main/videos15cm/mandala-alma-colorida-15.mp4"
@@ -219,7 +219,7 @@
   "disponibilidade" : true,
   "titulo" : "Mandala Coração de Fogo",
   "tamanho" : "15 cm",
-  "descricao" : "Intensa, vibrante e cheia de vida! Esta mandala representa o fogo sagrado que habita o centro do ser — a chama que protege, transforma e desperta a coragem interior. Ela simboliza a paixão, a presença e a força que nasce do coração em plenitude. Um lembrete de que o verdadeiro poder é a luz que arde dentro de nós, mantendo viva a essência e o calor da alma.",
+  "descricao" : "Representa força interior, paixão, coragem e energia vital.",
   "preco" : 149,
   "imagens" : [ "https://cdn.jsdelivr.net/gh/PatrickMaiak/mandaura-media@main/img15cm/mandala-vermelha-e-amarela-15cm.jpg", "https://cdn.jsdelivr.net/gh/PatrickMaiak/mandaura-media@main/img15cm/esp.-15cm-amarelo.jpg" ],
   "video" : "https://cdn.jsdelivr.net/gh/PatrickMaiak/mandaura-media@main/videos15cm/mandala-coracao-de-fogo-15.mp4"
@@ -228,7 +228,7 @@
   "disponibilidade" : false,
   "titulo" : "Mandala da Expansão",
   "tamanho" : "15 cm",
-  "descricao" : "Radiante e viva, esta mandala simboliza o crescimento da luz que parte do centro e se espalha em todas as direções. Representa o despertar da consciência, o florescer do espírito e o poder de se abrir para o novo. Um convite para viver em movimento, em constante transformação e harmonia com o todo.",
+  "descricao" : "Representa o despertar da consciência, evolução, abertura e conexão com o novo.",
   "preco" : 149,
   "imagens" : [ "https://cdn.jsdelivr.net/gh/PatrickMaiak/mandaura-media@main/img15cm/mandala-lagarto-15cm.jpg", "https://cdn.jsdelivr.net/gh/PatrickMaiak/mandaura-media@main/img15cm/esp.-15cm-azul-claro.jpg" ],
   "video" : "https://cdn.jsdelivr.net/gh/PatrickMaiak/mandaura-media@main/videos15cm/mandala-guardia-do-ceu-15.mp4"
@@ -255,7 +255,7 @@
   "disponibilidade" : true,
   "titulo" : "Mandala Sopro Azul",
   "tamanho" : "15 cm",
-  "descricao" : "Suave como a brisa que toca as folhas, esta mandala traz a energia da leveza e do equilíbrio. Seus tons de azul refletem calma, cura e liberdade interior, como um vento que limpa e renova. Sopro Azul é um convite ao silêncio e à fluidez — uma lembrança de que a força também habita na suavidade e no movimento sereno da vida.",
+  "descricao" : "Representa leveza, calma, fluidez e renovação.",
   "preco" : 149,
   "imagens" : [ "https://cdn.jsdelivr.net/gh/PatrickMaiak/mandaura-media@main/img15cm/mandala-estrela-azul-15cm.jpg", "https://cdn.jsdelivr.net/gh/PatrickMaiak/mandaura-media@main/img15cm/esp.-15cm-azul-escuro-.jpg" ],
   "video" : "https://cdn.jsdelivr.net/gh/PatrickMaiak/mandaura-media@main/videos15cm/mandala-sopro-azul-15.mp4"
@@ -273,7 +273,7 @@
   "disponibilidade" : true,
   "titulo" : "Mandala Alegria Divina",
   "tamanho" : "15 cm",
-  "descricao" : "Brilhante, viva e cheia de energia! Essa mandala é a celebração da alegria em sua forma mais pura — aquela que nasce da alma e se expande em luz. Alegria Divina representa o sorriso do espírito, o calor do coração desperto e a lembrança de que a felicidade verdadeira floresce de dentro para fora.",
+  "descricao" : "Representa felicidade, leveza, luz interior e conexão com a essência.",
   "preco" : 149,
   "imagens" : [ "https://cdn.jsdelivr.net/gh/PatrickMaiak/mandaura-media@main/img15cm/mandala-rosa-e-amarelo-15cm.jpg", "https://cdn.jsdelivr.net/gh/PatrickMaiak/mandaura-media@main/img15cm/esp.-15cm-rosa.jpg" ],
   "video" : "https://cdn.jsdelivr.net/gh/PatrickMaiak/mandaura-media@main/videos15cm/mandala-luz-da-manha-15.mp4"
@@ -282,7 +282,7 @@
   "disponibilidade" : true,
   "titulo" : "Mandala Essência Cósmica",
   "tamanho" : "15 cm",
-  "descricao" : "Essa mandala simboliza a energia do cosmos em expansão — o ponto onde o invisível se torna presença e o espírito toca a imensidão. Representa a conexão entre a alma e o universo, o fluxo silencioso que une tudo o que existe. Essência Cósmica é o espelho daquilo que somos: parte do infinito em constante despertar.",
+  "descricao" : "Representa conexão com o universo e expansão da consciência.",
   "preco" : 149,
   "imagens" : [ "https://cdn.jsdelivr.net/gh/PatrickMaiak/mandaura-media@main/img15cm/mandala-roxa-15cm.jpg", "https://cdn.jsdelivr.net/gh/PatrickMaiak/mandaura-media@main/img15cm/esp.-15cm-roxo.jpg" ],
   "video" : "https://cdn.jsdelivr.net/gh/PatrickMaiak/mandaura-media@main/videos15cm/mandala-alma-estelar-15.mp4"
@@ -318,7 +318,7 @@
   "disponibilidade" : true,
   "titulo" : "Mandala Portal Interior",
   "tamanho" : "11 cm",
-  "descricao" : "Esta mandala é o espelho do ser — o portal que revela o universo guardado dentro de cada um. No centro, a flor se abre como um símbolo de despertar, conduzindo o olhar ao ponto onde o silêncio se transforma em luz. Ela representa o retorno à essência, o encontro com o coração desperto e a lembrança de que o infinito começa dentro.",
+  "descricao" : "Representa autoconhecimento, introspecção e conexão interior.",
   "preco" : 99,
   "imagens" : [ "https://cdn.jsdelivr.net/gh/PatrickMaiak/mandaura-media@main/img11cm/mandala-flor-azul-e-branco.jpg", "https://cdn.jsdelivr.net/gh/PatrickMaiak/mandaura-media@main/img15cm/esp.-15cm-azul-escuro-.jpg" ],
   "video" : "https://cdn.jsdelivr.net/gh/PatrickMaiak/mandaura-media@main/videos11cm/mandala-portal-azul-11.mp4"
@@ -363,7 +363,7 @@
   "disponibilidade" : true,
   "titulo" : "Mandala Olho Grego",
   "tamanho" : "11 cm",
-  "descricao" : "Símbolo ancestral de proteção e luz, esta mandala guarda em suas camadas o poder de afastar energias densas e atrair boas vibrações. Olho Grego é um amuleto de clareza e proteção — um lembrete de que o verdadeiro escudo está na pureza do olhar e na paz interior.",
+  "descricao" : "Representa proteção e boas vibrações.",
   "preco" : 99,
   "imagens" : [ "https://cdn.jsdelivr.net/gh/PatrickMaiak/mandaura-media@main/img11cm/mandala-olho-grego-11cm.jpg", "https://cdn.jsdelivr.net/gh/PatrickMaiak/mandaura-media@main/img15cm/esp.-15cm-azul-claro.jpg" ],
   "video" : "https://cdn.jsdelivr.net/gh/PatrickMaiak/mandaura-media@main/videos11cm/mandala-olho-grego-11.mp4"
@@ -399,7 +399,7 @@
   "disponibilidade" : true,
   "titulo" : "Mandala Luz Serena",
   "tamanho" : "11 cm",
-  "descricao" : "Esta mandala reflete a luz suave que surge quando o espírito encontra repouso. Símbolo de equilíbrio, clareza e quietude interior — um convite para respirar fundo e deixar que a serenidade se torne guia. Sua energia envolve como um manto de calma, revelando que o brilho mais puro nasce do silêncio.",
+  "descricao" : "Representa calma, equilíbrio e clareza interior.",
   "preco" : 99,
   "imagens" : [ "https://cdn.jsdelivr.net/gh/PatrickMaiak/mandaura-media@main/img11cm/mandala-oceano-interior-11cm.jpg", "https://cdn.jsdelivr.net/gh/PatrickMaiak/mandaura-media@main/img15cm/esp.-15cm-azul-claro.jpg" ],
   "video" : "https://cdn.jsdelivr.net/gh/PatrickMaiak/mandaura-media@main/videos11cm/mandala-azul.mp4"
@@ -408,7 +408,7 @@
   "disponibilidade" : true,
   "titulo" : "Mandala Flor da Aurora",
   "tamanho" : "11 cm",
-  "descricao" : "Suave, radiante e cheia de vida! Essa mandala simboliza o despertar da alma — o instante em que a luz interior se expande e renova tudo ao redor. Representa o recomeço, a esperança e a beleza dos novos ciclos. Cada forma vibra como pétalas que se abrem para o primeiro raio do dia — um lembrete de que, mesmo após a noite, a luz sempre retorna.",
+  "descricao" : "Representa recomeço, esperança e renovação.",
   "preco" : 99,
   "imagens" : [ "https://cdn.jsdelivr.net/gh/PatrickMaiak/mandaura-media@main/img11cm/mandala-flor-da-aurora-11cm.jpg", "https://cdn.jsdelivr.net/gh/PatrickMaiak/mandaura-media@main/img15cm/esp.-15cm-roxo.jpg" ],
   "video" : "https://cdn.jsdelivr.net/gh/PatrickMaiak/mandaura-media@main/videos11cm/mandala-flor-da-aurora-11.mp4"
