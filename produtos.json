@@ -3,7 +3,7 @@
   "disponibilidade" : true,
   "titulo" : "Mandala Árvore da Vida",
   "tamanho" : "30 cm",
-  "descricao" : "Símbolo ancestral de conexão entre o céu e a terra, essa mandala representa crescimento, força e renovação. Cada galho e raiz entrelaçado reflete o equilíbrio entre corpo, mente e espírito, lembrando que todas as formas de vida estão interligadas.",
+  "descricao" : "Representa crescimento, força, ancestralidade e a conexão entre céu e terra.",
   "preco" : 229,
   "imagens" : [ "https://cdn.jsdelivr.net/gh/patrickmaiak/mandaura-media/img30cm/mandalaarvoredavida301.jpg", "https://cdn.jsdelivr.net/gh/PatrickMaiak/mandaura-media@main/img15cm/esp.-7-chakras.jpg" ],
   "video" : "https://cdn.jsdelivr.net/gh/PatrickMaiak/mandaura-media@main/videos30cm/mandala-arvore-da-vida-30.mp4"
@@ -12,7 +12,7 @@
   "disponibilidade" : true,
   "titulo" : "Mandala Harmonia Celeste",
   "tamanho" : "30 cm",
-  "descricao" : "O azul e o verde se unem em perfeita harmonia, evocando calma, cura e serenidade. Essa mandala é ideal para ambientes de descanso e meditação, trazendo equilíbrio entre o emocional e o espiritual — como o encontro pacífico entre o céu e a natureza.",
+  "descricao" : "Representa equilíbrio, serenidade e a harmonia entre o interior e o exterior.",
   "preco" : 249,
   "imagens" : [ "https://cdn.jsdelivr.net/gh/patrickmaiak/mandaura-media/img30cm/mandalaazuleverde1.jpg", "https://cdn.jsdelivr.net/gh/patrickmaiak/mandaura-media/img30cm/mandalaazuleverde2.jpg", "https://cdn.jsdelivr.net/gh/PatrickMaiak/mandaura-media@main/img30cm/esp.-20cm-azul-escuro.jpg" ],
   "video" : "https://cdn.jsdelivr.net/gh/PatrickMaiak/mandaura-media@main/videos30cm/mandala-harmonia-celeste-30.mp4"
@@ -21,7 +21,7 @@
   "disponibilidade" : true,
   "titulo" : "Mandala da Vitalidade",
   "tamanho" : "30 cm",
-  "descricao" : "Explosão de cores e energia vibrante! Essa mandala simboliza alegria, expansão e liberdade. Ela desperta o otimismo e reaviva a criatividade, sendo um lembrete de que a vida é feita de ciclos repletos de luz e movimento.",
+  "descricao" : "Representa energia, alegria e força vital.",
   "preco" : 249,
   "imagens" : [ "https://cdn.jsdelivr.net/gh/patrickmaiak/mandaura-media/img30cm/mandalacolorida1.jpg", "https://cdn.jsdelivr.net/gh/patrickmaiak/mandaura-media/img30cm/mandalacolorida2.jpg", "https://cdn.jsdelivr.net/gh/PatrickMaiak/mandaura-media@main/img30cm/esp.-20cm-amarelo.jpg" ],
   "video" : "https://cdn.jsdelivr.net/gh/PatrickMaiak/mandaura-media@main/videos30cm/mandala-essencia-da-vitalidade-30.mp4"
@@ -30,7 +30,7 @@
   "disponibilidade" : true,
   "titulo" : "Mandala Força da Serpente",
   "tamanho" : "30 cm",
-  "descricao" : "A serpente, símbolo da transformação e da cura, habita o centro dessa mandala. Representa o renascimento, a sabedoria antiga e o poder de trocar a própria pele — um convite para deixar o velho ir embora e permitir que o novo floresça.",
+  "descricao" : "Representa transformação, renovação, sabedoria e o poder de recomeçar.",
   "preco" : 249,
   "imagens" : [ "https://cdn.jsdelivr.net/gh/patrickmaiak/mandaura-media/img30cm/mandaladacobra1.jpg", "https://cdn.jsdelivr.net/gh/patrickmaiak/mandaura-media/img30cm/mandaladacobra2.jpg", "https://cdn.jsdelivr.net/gh/PatrickMaiak/mandaura-media@main/img30cm/esp.-20cm-rosa.jpg" ],
   "video" : "https://cdn.jsdelivr.net/gh/PatrickMaiak/mandaura-media@main/videos30cm/mandala-forca-da-serpente-30.mp4"
@@ -300,7 +300,7 @@
   "disponibilidade" : true,
   "titulo" : "Mandala Árvore da Vida",
   "tamanho" : "15 cm",
-  "descricao" : "Símbolo ancestral de conexão entre o céu e a terra, essa mandala representa crescimento, força e renovação. Cada galho e raiz entrelaçado reflete o equilíbrio entre corpo, mente e espírito, lembrando que todas as formas de vida estão interligadas.",
+  "descricao" : "Representa crescimento, força, ancestralidade e a conexão entre céu e terra.",
   "preco" : 129,
   "imagens" : [ "https://cdn.jsdelivr.net/gh/patrickmaiak/mandaura-media/img30cm/mandalaarvoredavida301.jpg", "https://cdn.jsdelivr.net/gh/PatrickMaiak/mandaura-media@main/img15cm/esp.-7-chakras.jpg" ],
   "video" : "https://cdn.jsdelivr.net/gh/PatrickMaiak/mandaura-media@main/videos15cm/mandala-arvore-da-vida-15.mp4"
@@ -327,7 +327,7 @@
   "disponibilidade" : true,
   "titulo" : "Mandala Harmonia Celeste",
   "tamanho" : "11 cm",
-  "descricao" : "O azul e o verde se unem em perfeita harmonia, evocando calma, cura e serenidade. Essa mandala é ideal para ambientes de descanso e meditação, trazendo equilíbrio entre o emocional e o espiritual — como o encontro pacífico entre o céu e a natureza.",
+  "descricao" : "Representa equilíbrio, serenidade e a harmonia entre o interior e o exterior.",
   "preco" : 99,
   "imagens" : [ "https://cdn.jsdelivr.net/gh/PatrickMaiak/mandaura-media@main/img11cm/mandala-azul-e-verde-11cm.jpg", "https://cdn.jsdelivr.net/gh/PatrickMaiak/mandaura-media@main/img15cm/esp.-15cm-azul-escuro-.jpg" ],
   "video" : "https://cdn.jsdelivr.net/gh/PatrickMaiak/mandaura-media@main/videos11cm/mandala-harmonia-celeste-11.mp4"
@@ -336,7 +336,7 @@
   "disponibilidade" : true,
   "titulo" : "Mandala da Vitalidade",
   "tamanho" : "11 cm",
-  "descricao" : "Explosão de cores e energia vibrante! Essa mandala simboliza alegria, expansão e liberdade. Ela desperta o otimismo e reaviva a criatividade, sendo um lembrete de que a vida é feita de ciclos repletos de luz e movimento.",
+  "descricao" : "Representa energia, alegria e força vital.",
   "preco" : 99,
   "imagens" : [ "https://cdn.jsdelivr.net/gh/PatrickMaiak/mandaura-media@main/img11cm/mandala-colorida-11cm.jpg", "https://cdn.jsdelivr.net/gh/PatrickMaiak/mandaura-media@main/img15cm/esp.-15cm-amarelo.jpg" ],
   "video" : "https://cdn.jsdelivr.net/gh/PatrickMaiak/mandaura-media@main/videos11cm/mandala-essencia-da-vitalidade-11.mp4"
