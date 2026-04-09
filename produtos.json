@@ -84,7 +84,7 @@
   "disponibilidade" : true,
   "titulo" : "Mandala da Serenidade",
   "tamanho" : "30 cm",
-  "descricao" : "Esta mandala transmite calma, harmonia e equilíbrio interior. Seus tons de azul e turquesa remetem à fluidez da água e à imensidão do céu, transmitindo leveza e paz. Ela convida ao silêncio interior e à tranquilidade da mente, ideal para quem busca um refúgio de paz em meio ao movimento da vida.",
+  "descricao" : "Representa calma, equilíbrio, paz e tranquilidade.",
   "preco" : 249,
   "imagens" : [ "https://cdn.jsdelivr.net/gh/patrickmaiak/mandaura-media/img30cm/mandalaflorazul1.jpg", "https://cdn.jsdelivr.net/gh/patrickmaiak/mandaura-media/img30cm/mandalaflorazul2.jpg", "https://cdn.jsdelivr.net/gh/PatrickMaiak/mandaura-media@main/img30cm/esp.-20cm-azul-escuro.jpg" ],
   "video" : "https://cdn.jsdelivr.net/gh/PatrickMaiak/mandaura-media@main/videos30cm/mandala-flor-azul-30.mp4"
@@ -93,7 +93,7 @@
   "disponibilidade" : true,
   "titulo" : "Mandala Flor De Lótus",
   "tamanho" : "30 cm",
-  "descricao" : "A Flor de Lótus simboliza o renascimento e a pureza espiritual. Esta mandala reflete a jornada da alma que floresce mesmo em meio às águas turvas da vida, trazendo calma, superação e iluminação interior. Ideal para quem busca paz e autoconhecimento.",
+  "descricao" : "Representa renascimento, superação, pureza e evolução espiritual.",
   "preco" : 229,
   "imagens" : [ "https://cdn.jsdelivr.net/gh/patrickmaiak/mandaura-media/img30cm/mandalaflordelotusde301.jpg", "https://cdn.jsdelivr.net/gh/PatrickMaiak/mandaura-media@main/img15cm/esp.-7-chakras.jpg" ],
   "video" : "https://cdn.jsdelivr.net/gh/PatrickMaiak/mandaura-media@main/videos30cm/mandala-flor-de-lotus-30.mp4"
@@ -201,7 +201,7 @@
   "disponibilidade" : true,
   "titulo" : "Mandala Flor de Lótus furta-cor",
   "tamanho" : "15 cm",
-  "descricao" : "A Flor de Lótus simboliza o renascimento e a pureza espiritual. Esta mandala reflete a jornada da alma que floresce mesmo em meio às águas turvas da vida, trazendo calma, superação e iluminação interior. Ideal para quem busca paz e autoconhecimento.",
+  "descricao" : "Representa renascimento, superação, pureza e evolução espiritual.",
   "preco" : 129,
   "imagens" : [ "https://cdn.jsdelivr.net/gh/patrickmaiak/mandaura-media/img15cm/mandala-flor-de-lotus-furta-15cm-.jpg", "https://cdn.jsdelivr.net/gh/PatrickMaiak/mandaura-media@main/img15cm/pendulo-gota.jpg" ],
   "video" : "https://cdn.jsdelivr.net/gh/PatrickMaiak/mandaura-media@main/videos15cm/mandala-flor-de-lotus-furta-cor-15.mp4"
@@ -264,7 +264,7 @@
   "disponibilidade" : true,
   "titulo" : "Mandala da Serenidade",
   "tamanho" : "15 cm",
-  "descricao" : "Esta mandala transmite calma, harmonia e equilíbrio interior. Seus tons de azul e turquesa remetem à fluidez da água e à imensidão do céu, transmitindo leveza e paz. Ela convida ao silêncio interior e à tranquilidade da mente, ideal para quem busca um refúgio de paz em meio ao movimento da vida.",
+  "descricao" : "Representa calma, equilíbrio, paz e tranquilidade.",
   "preco" : 149,
   "imagens" : [ "https://cdn.jsdelivr.net/gh/PatrickMaiak/mandaura-media@main/img15cm/mandala-flor-azul-15cm.jpg", "https://cdn.jsdelivr.net/gh/PatrickMaiak/mandaura-media@main/img15cm/esp.-15cm-azul-claro.jpg" ],
   "video" : "https://cdn.jsdelivr.net/gh/PatrickMaiak/mandaura-media@main/videos15cm/mandala-flor-azul-15.mp4"
