@@ -162,7 +162,7 @@
   "video" : "https://cdn.jsdelivr.net/gh/PatrickMaiak/mandaura-media@main/videos30cm/mandala-portal-da-consciencia-30-3.mp4"
 }, {
   "id" : 19,
-  "disponibilidade" : true,
+  "disponibilidade" : false,
   "titulo" : "Mandala Essência do Céu",
   "tamanho" : "30 cm",
   "descricao" : "Representa leveza, liberdade e clareza.",
