@@ -243,7 +243,7 @@
   "video" : "https://cdn.jsdelivr.net/gh/PatrickMaiak/mandaura-media@main/videos15cm/mandala-alegria-solar-15.mp4"
 }, {
   "id" : 27,
-  "disponibilidade" : true,
+  "disponibilidade" : false,
   "titulo" : "Mandala do Sol",
   "tamanho" : "15 cm",
   "descricao" : "Representa luz, vitalidade, alegria e energia interior.",
