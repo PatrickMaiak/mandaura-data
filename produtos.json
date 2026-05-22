@@ -153,7 +153,7 @@
   "video" : "https://cdn.jsdelivr.net/gh/PatrickMaiak/mandaura-media@main/videos30cm/mandala-escudo-solar-30.mp4"
 }, {
   "id" : 18,
-  "disponibilidade" : false,
+  "disponibilidade" : true,
   "titulo" : "Mandala Mística",
   "tamanho" : "30 cm",
   "descricao" : "Representa intuição, espiritualidade e sabedoria interior.",
@@ -369,7 +369,7 @@
   "video" : "https://cdn.jsdelivr.net/gh/PatrickMaiak/mandaura-media@main/videos11cm/mandala-olho-grego-11.mp4"
 }, {
   "id" : 41,
-  "disponibilidade" : true,
+  "disponibilidade" : false,
   "titulo" : "Mandala Essência do Céu",
   "tamanho" : "11 cm",
   "descricao" : "Representa leveza, liberdade e clareza.",
