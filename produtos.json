@@ -153,7 +153,7 @@
   "video" : "https://cdn.jsdelivr.net/gh/PatrickMaiak/mandaura-media@main/videos30cm/mandala-escudo-solar-30.mp4"
 }, {
   "id" : 18,
-  "disponibilidade" : true,
+  "disponibilidade" : false,
   "titulo" : "Mandala Mística",
   "tamanho" : "30 cm",
   "descricao" : "Representa intuição, espiritualidade e sabedoria interior.",
