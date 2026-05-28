@@ -153,7 +153,7 @@
   "video" : "https://cdn.jsdelivr.net/gh/PatrickMaiak/mandaura-media@main/videos30cm/mandala-escudo-solar-30.mp4"
 }, {
   "id" : 18,
-  "disponibilidade" : false,
+  "disponibilidade" : true,
   "titulo" : "Mandala Mística",
   "tamanho" : "30 cm",
   "descricao" : "Representa intuição, espiritualidade e sabedoria interior.",
@@ -243,7 +243,7 @@
   "video" : "https://cdn.jsdelivr.net/gh/PatrickMaiak/mandaura-media@main/videos15cm/mandala-alegria-solar-15.mp4"
 }, {
   "id" : 27,
-  "disponibilidade" : false,
+  "disponibilidade" : true,
   "titulo" : "Mandala do Sol",
   "tamanho" : "15 cm",
   "descricao" : "Representa luz, vitalidade, alegria e energia interior.",
@@ -405,7 +405,7 @@
   "video" : "https://cdn.jsdelivr.net/gh/PatrickMaiak/mandaura-media@main/videos11cm/mandala-azul.mp4"
 }, {
   "id" : 45,
-  "disponibilidade" : false,
+  "disponibilidade" : true,
   "titulo" : "Mandala Flor da Aurora",
   "tamanho" : "11 cm",
   "descricao" : "Representa recomeço, esperança e renovação.",
