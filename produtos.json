@@ -6,7 +6,8 @@
   "descricao" : "Representa crescimento, força, ancestralidade e a conexão entre céu e terra.",
   "preco" : 229,
   "imagens" : [ "https://cdn.jsdelivr.net/gh/patrickmaiak/mandaura-media/img30cm/mandalaarvoredavida301.jpg", "https://cdn.jsdelivr.net/gh/PatrickMaiak/mandaura-media@main/img15cm/esp.-7-chakras.jpg" ],
-  "video" : "https://cdn.jsdelivr.net/gh/PatrickMaiak/mandaura-media@main/videos30cm/mandala-arvore-da-vida-30.mp4"
+  "video" : "https://cdn.jsdelivr.net/gh/PatrickMaiak/mandaura-media@main/videos30cm/mandala-arvore-da-vida-30.mp4",
+  "thumbs" : [ "https://cdn.jsdelivr.net/gh/patrickmaiak/mandaura-media/thumb30cm/mandalaarvoredavida301.webp", "https://cdn.jsdelivr.net/gh/PatrickMaiak/mandaura-media@main/thumb15cm/esp.-7-chakras.webp" ]
 }, {
   "id" : 2,
   "disponibilidade" : true,
@@ -15,7 +16,8 @@
   "descricao" : "Representa equilíbrio, serenidade e a harmonia entre o interior e o exterior.",
   "preco" : 249,
   "imagens" : [ "https://cdn.jsdelivr.net/gh/patrickmaiak/mandaura-media/img30cm/mandalaazuleverde1.jpg", "https://cdn.jsdelivr.net/gh/patrickmaiak/mandaura-media/img30cm/mandalaazuleverde2.jpg", "https://cdn.jsdelivr.net/gh/PatrickMaiak/mandaura-media@main/img30cm/esp.-20cm-azul-escuro.jpg" ],
-  "video" : "https://cdn.jsdelivr.net/gh/PatrickMaiak/mandaura-media@main/videos30cm/mandala-harmonia-celeste-30.mp4"
+  "video" : "https://cdn.jsdelivr.net/gh/PatrickMaiak/mandaura-media@main/videos30cm/mandala-harmonia-celeste-30.mp4",
+  "thumbs" : [ "https://cdn.jsdelivr.net/gh/patrickmaiak/mandaura-media/thumb30cm/mandalaazuleverde1.webp", "https://cdn.jsdelivr.net/gh/patrickmaiak/mandaura-media/thumb30cm/mandalaazuleverde2.webp", "https://cdn.jsdelivr.net/gh/PatrickMaiak/mandaura-media@main/thumb30cm/esp.-20cm-azul-escuro.webp" ]
 }, {
   "id" : 3,
   "disponibilidade" : true,
@@ -24,7 +26,8 @@
   "descricao" : "Representa energia, alegria e força vital.",
   "preco" : 249,
   "imagens" : [ "https://cdn.jsdelivr.net/gh/patrickmaiak/mandaura-media/img30cm/mandalacolorida1.jpg", "https://cdn.jsdelivr.net/gh/patrickmaiak/mandaura-media/img30cm/mandalacolorida2.jpg", "https://cdn.jsdelivr.net/gh/PatrickMaiak/mandaura-media@main/img30cm/esp.-20cm-amarelo.jpg" ],
-  "video" : "https://cdn.jsdelivr.net/gh/PatrickMaiak/mandaura-media@main/videos30cm/mandala-essencia-da-vitalidade-30.mp4"
+  "video" : "https://cdn.jsdelivr.net/gh/PatrickMaiak/mandaura-media@main/videos30cm/mandala-essencia-da-vitalidade-30.mp4",
+  "thumbs" : [ "https://cdn.jsdelivr.net/gh/patrickmaiak/mandaura-media/thumb30cm/mandalacolorida1.webp", "https://cdn.jsdelivr.net/gh/patrickmaiak/mandaura-media/thumb30cm/mandalacolorida2.webp", "https://cdn.jsdelivr.net/gh/PatrickMaiak/mandaura-media@main/thumb30cm/esp.-20cm-amarelo.webp" ]
 }, {
   "id" : 4,
   "disponibilidade" : true,
@@ -33,7 +36,8 @@
   "descricao" : "Representa transformação, renovação, sabedoria e o poder de recomeçar.",
   "preco" : 249,
   "imagens" : [ "https://cdn.jsdelivr.net/gh/patrickmaiak/mandaura-media/img30cm/mandaladacobra1.jpg", "https://cdn.jsdelivr.net/gh/patrickmaiak/mandaura-media/img30cm/mandaladacobra2.jpg", "https://cdn.jsdelivr.net/gh/PatrickMaiak/mandaura-media@main/img30cm/esp.-20cm-rosa.jpg" ],
-  "video" : "https://cdn.jsdelivr.net/gh/PatrickMaiak/mandaura-media@main/videos30cm/mandala-forca-da-serpente-30.mp4"
+  "video" : "https://cdn.jsdelivr.net/gh/PatrickMaiak/mandaura-media@main/videos30cm/mandala-forca-da-serpente-30.mp4",
+  "thumbs" : [ "https://cdn.jsdelivr.net/gh/patrickmaiak/mandaura-media/thumb30cm/mandaladacobra1.webp", "https://cdn.jsdelivr.net/gh/patrickmaiak/mandaura-media/thumb30cm/mandaladacobra2.webp", "https://cdn.jsdelivr.net/gh/PatrickMaiak/mandaura-media@main/thumb30cm/esp.-20cm-rosa.webp" ]
 }, {
   "id" : 5,
   "disponibilidade" : true,
@@ -42,7 +46,8 @@
   "descricao" : "Representa resiliência, proteção e a força de florescer mesmo em tempos difíceis.",
   "preco" : 249,
   "imagens" : [ "https://cdn.jsdelivr.net/gh/patrickmaiak/mandaura-media/img30cm/mandaladocacto1.jpg", "https://cdn.jsdelivr.net/gh/patrickmaiak/mandaura-media/img30cm/mandaladocacto2.jpg", "https://cdn.jsdelivr.net/gh/PatrickMaiak/mandaura-media@main/img30cm/esp.-20cm-verde.jpg" ],
-  "video" : "https://cdn.jsdelivr.net/gh/PatrickMaiak/mandaura-media@main/videos30cm/mandala-flor-de-cacto-30.mp4"
+  "video" : "https://cdn.jsdelivr.net/gh/PatrickMaiak/mandaura-media@main/videos30cm/mandala-flor-de-cacto-30.mp4",
+  "thumbs" : [ "https://cdn.jsdelivr.net/gh/patrickmaiak/mandaura-media/thumb30cm/mandaladocacto1.webp", "https://cdn.jsdelivr.net/gh/patrickmaiak/mandaura-media/thumb30cm/mandaladocacto2.webp", "https://cdn.jsdelivr.net/gh/PatrickMaiak/mandaura-media@main/thumb30cm/esp.-20cm-verde.webp" ]
 }, {
   "id" : 6,
   "disponibilidade" : true,
@@ -51,7 +56,8 @@
   "descricao" : "Representa estabilidade, enraizamento e fortalecimento interior.",
   "preco" : 249,
   "imagens" : [ "https://cdn.jsdelivr.net/gh/patrickmaiak/mandaura-media/img30cm/mandaladodeserto1.jpg", "https://cdn.jsdelivr.net/gh/patrickmaiak/mandaura-media/img30cm/mandaladodeserto2.jpg", "https://cdn.jsdelivr.net/gh/PatrickMaiak/mandaura-media@main/img30cm/esp.-20cm-verde.jpg" ],
-  "video" : "https://cdn.jsdelivr.net/gh/PatrickMaiak/mandaura-media@main/videos30cm/mandala-essencia-do-deserto-30.mp4"
+  "video" : "https://cdn.jsdelivr.net/gh/PatrickMaiak/mandaura-media@main/videos30cm/mandala-essencia-do-deserto-30.mp4",
+  "thumbs" : [ "https://cdn.jsdelivr.net/gh/patrickmaiak/mandaura-media/thumb30cm/mandaladodeserto1.webp", "https://cdn.jsdelivr.net/gh/patrickmaiak/mandaura-media/thumb30cm/mandaladodeserto2.webp", "https://cdn.jsdelivr.net/gh/PatrickMaiak/mandaura-media@main/thumb30cm/esp.-20cm-verde.webp" ]
 }, {
   "id" : 7,
   "disponibilidade" : true,
@@ -60,7 +66,8 @@
   "descricao" : "Representa luz, vitalidade, alegria e energia interior.",
   "preco" : 249,
   "imagens" : [ "https://cdn.jsdelivr.net/gh/patrickmaiak/mandaura-media/img30cm/mandalaalegriasolar1.jpg", "https://cdn.jsdelivr.net/gh/patrickmaiak/mandaura-media/img30cm/mandalaalegriasolar2.jpg", "https://cdn.jsdelivr.net/gh/PatrickMaiak/mandaura-media@main/img30cm/esp.-20cm-verde.jpg" ],
-  "video" : "https://cdn.jsdelivr.net/gh/PatrickMaiak/mandaura-media@main/videos30cm/mandala-alegria-solar-30.mp4"
+  "video" : "https://cdn.jsdelivr.net/gh/PatrickMaiak/mandaura-media@main/videos30cm/mandala-alegria-solar-30.mp4",
+  "thumbs" : [ "https://cdn.jsdelivr.net/gh/patrickmaiak/mandaura-media/thumb30cm/mandalaalegriasolar1.webp", "https://cdn.jsdelivr.net/gh/patrickmaiak/mandaura-media/thumb30cm/mandalaalegriasolar2.webp", "https://cdn.jsdelivr.net/gh/PatrickMaiak/mandaura-media@main/thumb30cm/esp.-20cm-verde.webp" ]
 }, {
   "id" : 8,
   "disponibilidade" : true,
@@ -69,7 +76,8 @@
   "descricao" : "Representa beleza, autoconfiança e a expressão da própria essência.",
   "preco" : 249,
   "imagens" : [ "https://cdn.jsdelivr.net/gh/patrickmaiak/mandaura-media/img30cm/mandaladopavao1.jpg", "https://cdn.jsdelivr.net/gh/patrickmaiak/mandaura-media/img30cm/mandaladopavao2.jpg", "https://cdn.jsdelivr.net/gh/PatrickMaiak/mandaura-media@main/img30cm/esp.-20cm-azul-claro.jpg" ],
-  "video" : "https://cdn.jsdelivr.net/gh/PatrickMaiak/mandaura-media@main/videos30cm/mandala-do-pavao-30.mp4"
+  "video" : "https://cdn.jsdelivr.net/gh/PatrickMaiak/mandaura-media@main/videos30cm/mandala-do-pavao-30.mp4",
+  "thumbs" : [ "https://cdn.jsdelivr.net/gh/patrickmaiak/mandaura-media/thumb30cm/mandaladopavao1.webp", "https://cdn.jsdelivr.net/gh/patrickmaiak/mandaura-media/thumb30cm/mandaladopavao2.webp", "https://cdn.jsdelivr.net/gh/PatrickMaiak/mandaura-media@main/thumb30cm/esp.-20cm-azul-claro.webp" ]
 }, {
   "id" : 9,
   "disponibilidade" : true,
@@ -78,7 +86,8 @@
   "descricao" : "Representa luz, vitalidade, alegria e energia interior.",
   "preco" : 249,
   "imagens" : [ "https://cdn.jsdelivr.net/gh/patrickmaiak/mandaura-media/img30cm/mandaladosol1.jpg", "https://cdn.jsdelivr.net/gh/patrickmaiak/mandaura-media/img30cm/mandaladosol2.jpg", "https://cdn.jsdelivr.net/gh/PatrickMaiak/mandaura-media@main/img30cm/esp.-20cm-verde.jpg" ],
-  "video" : "https://cdn.jsdelivr.net/gh/PatrickMaiak/mandaura-media@main/videos30cm/mandala-do-sol-30.mp4"
+  "video" : "https://cdn.jsdelivr.net/gh/PatrickMaiak/mandaura-media@main/videos30cm/mandala-do-sol-30.mp4",
+  "thumbs" : [ "https://cdn.jsdelivr.net/gh/patrickmaiak/mandaura-media/thumb30cm/mandaladosol1.webp", "https://cdn.jsdelivr.net/gh/patrickmaiak/mandaura-media/thumb30cm/mandaladosol2.webp", "https://cdn.jsdelivr.net/gh/PatrickMaiak/mandaura-media@main/thumb30cm/esp.-20cm-verde.webp" ]
 }, {
   "id" : 1,
   "disponibilidade" : true,
@@ -87,7 +96,8 @@
   "descricao" : "Representa calma, equilíbrio, paz e tranquilidade.",
   "preco" : 249,
   "imagens" : [ "https://cdn.jsdelivr.net/gh/patrickmaiak/mandaura-media/img30cm/mandalaflorazul1.jpg", "https://cdn.jsdelivr.net/gh/patrickmaiak/mandaura-media/img30cm/mandalaflorazul2.jpg", "https://cdn.jsdelivr.net/gh/PatrickMaiak/mandaura-media@main/img30cm/esp.-20cm-azul-escuro.jpg" ],
-  "video" : "https://cdn.jsdelivr.net/gh/PatrickMaiak/mandaura-media@main/videos30cm/mandala-flor-azul-30.mp4"
+  "video" : "https://cdn.jsdelivr.net/gh/PatrickMaiak/mandaura-media@main/videos30cm/mandala-flor-azul-30.mp4",
+  "thumbs" : [ "https://cdn.jsdelivr.net/gh/patrickmaiak/mandaura-media/thumb30cm/mandalaflorazul1.webp", "https://cdn.jsdelivr.net/gh/patrickmaiak/mandaura-media/thumb30cm/mandalaflorazul2.webp", "https://cdn.jsdelivr.net/gh/PatrickMaiak/mandaura-media@main/thumb30cm/esp.-20cm-azul-escuro.webp" ]
 }, {
   "id" : 11,
   "disponibilidade" : true,
@@ -96,7 +106,8 @@
   "descricao" : "Representa renascimento, superação, pureza e evolução espiritual.",
   "preco" : 229,
   "imagens" : [ "https://cdn.jsdelivr.net/gh/patrickmaiak/mandaura-media/img30cm/mandalaflordelotusde301.jpg", "https://cdn.jsdelivr.net/gh/PatrickMaiak/mandaura-media@main/img15cm/esp.-7-chakras.jpg" ],
-  "video" : "https://cdn.jsdelivr.net/gh/PatrickMaiak/mandaura-media@main/videos30cm/mandala-flor-de-lotus-30.mp4"
+  "video" : "https://cdn.jsdelivr.net/gh/PatrickMaiak/mandaura-media@main/videos30cm/mandala-flor-de-lotus-30.mp4",
+  "thumbs" : [ "https://cdn.jsdelivr.net/gh/patrickmaiak/mandaura-media/thumb30cm/mandalaflordelotusde301.webp", "https://cdn.jsdelivr.net/gh/PatrickMaiak/mandaura-media@main/thumb15cm/esp.-7-chakras.webp" ]
 }, {
   "id" : 12,
   "disponibilidade" : false,
@@ -105,7 +116,8 @@
   "descricao" : "Representa otimismo, renovação, alegria e conexão com a luz.",
   "preco" : 249,
   "imagens" : [ "https://cdn.jsdelivr.net/gh/patrickmaiak/mandaura-media/img30cm/mandalagirassol1.jpg", "https://cdn.jsdelivr.net/gh/patrickmaiak/mandaura-media/img30cm/mandalagirassol2.jpg", "https://cdn.jsdelivr.net/gh/PatrickMaiak/mandaura-media@main/img30cm/esp.-20cm-verde.jpg" ],
-  "video" : "https://cdn.jsdelivr.net/gh/PatrickMaiak/mandaura-media@main/videos30cm/mandala-girassol-30.mp4"
+  "video" : "https://cdn.jsdelivr.net/gh/PatrickMaiak/mandaura-media@main/videos30cm/mandala-girassol-30.mp4",
+  "thumbs" : [ "https://cdn.jsdelivr.net/gh/patrickmaiak/mandaura-media/thumb30cm/mandalagirassol1.webp", "https://cdn.jsdelivr.net/gh/patrickmaiak/mandaura-media/thumb30cm/mandalagirassol2.webp", "https://cdn.jsdelivr.net/gh/PatrickMaiak/mandaura-media@main/thumb30cm/esp.-20cm-verde.webp" ]
 }, {
   "id" : 13,
   "disponibilidade" : true,
@@ -114,7 +126,8 @@
   "descricao" : "Representa introspecção, transformação e conexão com o interior.",
   "preco" : 249,
   "imagens" : [ "https://cdn.jsdelivr.net/gh/patrickmaiak/mandaura-media/img30cm/mandalagotica1.jpg", "https://cdn.jsdelivr.net/gh/patrickmaiak/mandaura-media/img30cm/mandalagotica2.jpg", "https://cdn.jsdelivr.net/gh/PatrickMaiak/mandaura-media@main/img30cm/esp.-20cm-azul-claro.jpg" ],
-  "video" : "https://cdn.jsdelivr.net/gh/PatrickMaiak/mandaura-media@main/videos30cm/mandala-energia-oculta.mp4"
+  "video" : "https://cdn.jsdelivr.net/gh/PatrickMaiak/mandaura-media@main/videos30cm/mandala-energia-oculta.mp4",
+  "thumbs" : [ "https://cdn.jsdelivr.net/gh/patrickmaiak/mandaura-media/thumb30cm/mandalagotica1.webp", "https://cdn.jsdelivr.net/gh/patrickmaiak/mandaura-media/thumb30cm/mandalagotica2.webp", "https://cdn.jsdelivr.net/gh/PatrickMaiak/mandaura-media@main/thumb30cm/esp.-20cm-azul-claro.webp" ]
 }, {
   "id" : 14,
   "disponibilidade" : true,
@@ -123,7 +136,8 @@
   "descricao" : "Representa amor, acolhimento, conexão emocional e abertura do coração.",
   "preco" : 249,
   "imagens" : [ "https://cdn.jsdelivr.net/gh/PatrickMaiak/mandaura-media@main/img30cm/mandalamagenta-1.jpg", "https://cdn.jsdelivr.net/gh/PatrickMaiak/mandaura-media@main/img30cm/mandalamagenta-2.jpg", "https://cdn.jsdelivr.net/gh/PatrickMaiak/mandaura-media@main/img30cm/esp.-20cm-rosa.jpg" ],
-  "video" : "https://cdn.jsdelivr.net/gh/PatrickMaiak/mandaura-media@main/videos30cm/mandala-flor-do-amor-30-2.mp4"
+  "video" : "https://cdn.jsdelivr.net/gh/PatrickMaiak/mandaura-media@main/videos30cm/mandala-flor-do-amor-30-2.mp4",
+  "thumbs" : [ "https://cdn.jsdelivr.net/gh/PatrickMaiak/mandaura-media@main/thumb30cm/mandalamagenta-1.webp", "https://cdn.jsdelivr.net/gh/PatrickMaiak/mandaura-media@main/thumb30cm/mandalamagenta-2.webp", "https://cdn.jsdelivr.net/gh/PatrickMaiak/mandaura-media@main/thumb30cm/esp.-20cm-rosa.webp" ]
 }, {
   "id" : 15,
   "disponibilidade" : true,
@@ -132,7 +146,8 @@
   "descricao" : "Representa renovação, novos ciclos, positividade e esperança.",
   "preco" : 249,
   "imagens" : [ "https://cdn.jsdelivr.net/gh/patrickmaiak/mandaura-media/img30cm/mandalanossa1.jpg", "https://cdn.jsdelivr.net/gh/patrickmaiak/mandaura-media/img30cm/mandalanossa2.jpg", "https://cdn.jsdelivr.net/gh/PatrickMaiak/mandaura-media@main/img30cm/esp.-20cm-rosa.jpg" ],
-  "video" : "https://cdn.jsdelivr.net/gh/PatrickMaiak/mandaura-media@main/videos30cm/mandala-coracao-da-natureza-30.mp4"
+  "video" : "https://cdn.jsdelivr.net/gh/PatrickMaiak/mandaura-media@main/videos30cm/mandala-coracao-da-natureza-30.mp4",
+  "thumbs" : [ "https://cdn.jsdelivr.net/gh/patrickmaiak/mandaura-media/thumb30cm/mandalanossa1.webp", "https://cdn.jsdelivr.net/gh/patrickmaiak/mandaura-media/thumb30cm/mandalanossa2.webp", "https://cdn.jsdelivr.net/gh/PatrickMaiak/mandaura-media@main/thumb30cm/esp.-20cm-rosa.webp" ]
 }, {
   "id" : 16,
   "disponibilidade" : true,
@@ -141,7 +156,8 @@
   "descricao" : "Representa proteção, consciência, intuição e conexão com o universo.",
   "preco" : 249,
   "imagens" : [ "https://cdn.jsdelivr.net/gh/patrickmaiak/mandaura-media/img30cm/mandalaolhogrego301.jpg", "https://cdn.jsdelivr.net/gh/patrickmaiak/mandaura-media/img30cm/mandalaolhogrego302.jpg", "https://cdn.jsdelivr.net/gh/PatrickMaiak/mandaura-media@main/img30cm/esp.-20cm-azul-escuro.jpg" ],
-  "video" : "https://cdn.jsdelivr.net/gh/PatrickMaiak/mandaura-media@main/videos30cm/mandala-olho-do-cosmos-30.mp4"
+  "video" : "https://cdn.jsdelivr.net/gh/PatrickMaiak/mandaura-media@main/videos30cm/mandala-olho-do-cosmos-30.mp4",
+  "thumbs" : [ "https://cdn.jsdelivr.net/gh/patrickmaiak/mandaura-media/thumb30cm/mandalaolhogrego301.webp", "https://cdn.jsdelivr.net/gh/patrickmaiak/mandaura-media/thumb30cm/mandalaolhogrego302.webp", "https://cdn.jsdelivr.net/gh/PatrickMaiak/mandaura-media@main/thumb30cm/esp.-20cm-azul-escuro.webp" ]
 }, {
   "id" : 17,
   "disponibilidade" : true,
@@ -150,7 +166,8 @@
   "descricao" : "Representa proteção, força, coragem e energia vital.",
   "preco" : 249,
   "imagens" : [ "https://cdn.jsdelivr.net/gh/patrickmaiak/mandaura-media/img30cm/mandalaromana1.jpg", "https://cdn.jsdelivr.net/gh/patrickmaiak/mandaura-media/img30cm/mandalaromana2.jpg", "https://cdn.jsdelivr.net/gh/PatrickMaiak/mandaura-media@main/img30cm/esp.-20cm-vermelho.jpg" ],
-  "video" : "https://cdn.jsdelivr.net/gh/PatrickMaiak/mandaura-media@main/videos30cm/mandala-escudo-solar-30.mp4"
+  "video" : "https://cdn.jsdelivr.net/gh/PatrickMaiak/mandaura-media@main/videos30cm/mandala-escudo-solar-30.mp4",
+  "thumbs" : [ "https://cdn.jsdelivr.net/gh/patrickmaiak/mandaura-media/thumb30cm/mandalaromana1.webp", "https://cdn.jsdelivr.net/gh/patrickmaiak/mandaura-media/thumb30cm/mandalaromana2.webp", "https://cdn.jsdelivr.net/gh/PatrickMaiak/mandaura-media@main/thumb30cm/esp.-20cm-vermelho.webp" ]
 }, {
   "id" : 18,
   "disponibilidade" : true,
@@ -159,7 +176,8 @@
   "descricao" : "Representa intuição, espiritualidade e sabedoria interior.",
   "preco" : 249,
   "imagens" : [ "https://cdn.jsdelivr.net/gh/patrickmaiak/mandaura-media/img30cm/mandalaroxa1.jpg", "https://cdn.jsdelivr.net/gh/patrickmaiak/mandaura-media/img30cm/mandalaroxa2.jpg", "https://cdn.jsdelivr.net/gh/PatrickMaiak/mandaura-media@main/img30cm/esp.-20cm-verde.jpg" ],
-  "video" : "https://cdn.jsdelivr.net/gh/PatrickMaiak/mandaura-media@main/videos30cm/mandala-portal-da-consciencia-30-3.mp4"
+  "video" : "https://cdn.jsdelivr.net/gh/PatrickMaiak/mandaura-media@main/videos30cm/mandala-portal-da-consciencia-30-3.mp4",
+  "thumbs" : [ "https://cdn.jsdelivr.net/gh/patrickmaiak/mandaura-media/thumb30cm/mandalaroxa1.webp", "https://cdn.jsdelivr.net/gh/patrickmaiak/mandaura-media/thumb30cm/mandalaroxa2.webp", "https://cdn.jsdelivr.net/gh/PatrickMaiak/mandaura-media@main/thumb30cm/esp.-20cm-verde.webp" ]
 }, {
   "id" : 19,
   "disponibilidade" : false,
@@ -168,7 +186,8 @@
   "descricao" : "Representa leveza, liberdade e clareza.",
   "preco" : 249,
   "imagens" : [ "https://cdn.jsdelivr.net/gh/patrickmaiak/mandaura-media/img30cm/mandalavermelhoeazul1.jpg", "https://cdn.jsdelivr.net/gh/patrickmaiak/mandaura-media/img30cm/mandalavermelhoeazul2.jpg", "https://cdn.jsdelivr.net/gh/PatrickMaiak/mandaura-media@main/img30cm/esp.-20cm-azul-claro.jpg" ],
-  "video" : "https://cdn.jsdelivr.net/gh/PatrickMaiak/mandaura-media@main/videos30cm/mandala-essencia-do-ceu30.mp4"
+  "video" : "https://cdn.jsdelivr.net/gh/PatrickMaiak/mandaura-media@main/videos30cm/mandala-essencia-do-ceu30.mp4",
+  "thumbs" : [ "https://cdn.jsdelivr.net/gh/patrickmaiak/mandaura-media/thumb30cm/mandalavermelhoeazul1.webp", "https://cdn.jsdelivr.net/gh/patrickmaiak/mandaura-media/thumb30cm/mandalavermelhoeazul2.webp", "https://cdn.jsdelivr.net/gh/PatrickMaiak/mandaura-media@main/thumb30cm/esp.-20cm-azul-claro.webp" ]
 }, {
   "id" : 20,
   "disponibilidade" : true,
@@ -177,7 +196,8 @@
   "descricao" : "Representa estabilidade, presença e força.",
   "preco" : 249,
   "imagens" : [ "https://cdn.jsdelivr.net/gh/patrickmaiak/mandaura-media/img30cm/mandalavermelhoeverde1.jpg", "https://cdn.jsdelivr.net/gh/patrickmaiak/mandaura-media/img30cm/mandalavermelhoeverde2.jpg", "https://cdn.jsdelivr.net/gh/PatrickMaiak/mandaura-media@main/img30cm/esp.-20cm-vermelho.jpg" ],
-  "video" : "https://cdn.jsdelivr.net/gh/PatrickMaiak/mandaura-media@main/videos30cm/mandala-essencia-da-terra-30.mp4"
+  "video" : "https://cdn.jsdelivr.net/gh/PatrickMaiak/mandaura-media@main/videos30cm/mandala-essencia-da-terra-30.mp4",
+  "thumbs" : [ "https://cdn.jsdelivr.net/gh/patrickmaiak/mandaura-media/thumb30cm/mandalavermelhoeverde1.webp", "https://cdn.jsdelivr.net/gh/patrickmaiak/mandaura-media/thumb30cm/mandalavermelhoeverde2.webp", "https://cdn.jsdelivr.net/gh/PatrickMaiak/mandaura-media@main/thumb30cm/esp.-20cm-vermelho.webp" ]
 }, {
   "id" : 46,
   "disponibilidade" : true,
@@ -186,7 +206,8 @@
   "descricao" : "Representa proteção, equilíbrio, força e boas vibrações.",
   "preco" : 229,
   "imagens" : [ "https://cdn.jsdelivr.net/gh/patrickmaiak/mandaura-media/img30cm/maodefatimade302.jpg", "https://cdn.jsdelivr.net/gh/PatrickMaiak/mandaura-media@main/img15cm/esp.-7-chakras.jpg" ],
-  "video" : "https://cdn.jsdelivr.net/gh/PatrickMaiak/mandaura-media@main/videos30cm/mao-de-fatima-30-2.mp4"
+  "video" : "https://cdn.jsdelivr.net/gh/PatrickMaiak/mandaura-media@main/videos30cm/mao-de-fatima-30-2.mp4",
+  "thumbs" : [ "https://cdn.jsdelivr.net/gh/patrickmaiak/mandaura-media/thumb30cm/maodefatimade302.webp", "https://cdn.jsdelivr.net/gh/PatrickMaiak/mandaura-media@main/thumb15cm/esp.-7-chakras.webp" ]
 }, {
   "id" : 21,
   "disponibilidade" : false,
@@ -195,7 +216,8 @@
   "descricao" : "Representa abundância, crescimento e realização.",
   "preco" : 249,
   "imagens" : [ "https://cdn.jsdelivr.net/gh/PatrickMaiak/mandaura-media@main/img30cm/mandala-prosperidade-30cm.jpg", "https://cdn.jsdelivr.net/gh/PatrickMaiak/mandaura-media@main/img30cm/mandala-prosperidade-30-2.jpg", "https://cdn.jsdelivr.net/gh/PatrickMaiak/mandaura-media@main/img30cm/esp.-20cm-amarelo.jpg" ],
-  "video" : "https://cdn.jsdelivr.net/gh/PatrickMaiak/mandaura-media@main/videos30cm/mandala-prosperidade.mp4"
+  "video" : "https://cdn.jsdelivr.net/gh/PatrickMaiak/mandaura-media@main/videos30cm/mandala-prosperidade.mp4",
+  "thumbs" : [ "https://cdn.jsdelivr.net/gh/PatrickMaiak/mandaura-media@main/thumb30cm/mandala-prosperidade-30cm.webp", "https://cdn.jsdelivr.net/gh/PatrickMaiak/mandaura-media@main/thumb30cm/mandala-prosperidade-30-2.webp", "https://cdn.jsdelivr.net/gh/PatrickMaiak/mandaura-media@main/thumb30cm/esp.-20cm-amarelo.webp" ]
 }, {
   "id" : 22,
   "disponibilidade" : true,
@@ -204,7 +226,8 @@
   "descricao" : "Representa renascimento, superação, pureza e evolução espiritual.",
   "preco" : 129,
   "imagens" : [ "https://cdn.jsdelivr.net/gh/patrickmaiak/mandaura-media/img15cm/mandala-flor-de-lotus-furta-15cm-.jpg", "https://cdn.jsdelivr.net/gh/PatrickMaiak/mandaura-media@main/img15cm/pendulo-gota.jpg" ],
-  "video" : "https://cdn.jsdelivr.net/gh/PatrickMaiak/mandaura-media@main/videos15cm/mandala-flor-de-lotus-furta-cor-15.mp4"
+  "video" : "https://cdn.jsdelivr.net/gh/PatrickMaiak/mandaura-media@main/videos15cm/mandala-flor-de-lotus-furta-cor-15.mp4",
+  "thumbs" : [ "https://cdn.jsdelivr.net/gh/patrickmaiak/mandaura-media/thumb15cm/mandala-flor-de-lotus-furta-15cm-.webp", "https://cdn.jsdelivr.net/gh/PatrickMaiak/mandaura-media@main/thumb15cm/pendulo-gota.webp" ]
 }, {
   "id" : 23,
   "disponibilidade" : true,
@@ -213,7 +236,8 @@
   "descricao" : "Representa expressão, liberdade, criatividade e alegria.",
   "preco" : 149,
   "imagens" : [ "https://cdn.jsdelivr.net/gh/PatrickMaiak/mandaura-media@main/img15cm/mandala-alergia-circense-15cm.jpg", "https://cdn.jsdelivr.net/gh/PatrickMaiak/mandaura-media@main/img15cm/esp.-15cm-verde.jpg" ],
-  "video" : "https://cdn.jsdelivr.net/gh/PatrickMaiak/mandaura-media@main/videos15cm/mandala-alma-colorida-15.mp4"
+  "video" : "https://cdn.jsdelivr.net/gh/PatrickMaiak/mandaura-media@main/videos15cm/mandala-alma-colorida-15.mp4",
+  "thumbs" : [ "https://cdn.jsdelivr.net/gh/PatrickMaiak/mandaura-media@main/thumb15cm/mandala-alergia-circense-15cm.webp", "https://cdn.jsdelivr.net/gh/PatrickMaiak/mandaura-media@main/thumb15cm/esp.-15cm-verde.webp" ]
 }, {
   "id" : 24,
   "disponibilidade" : true,
@@ -222,7 +246,8 @@
   "descricao" : "Representa força interior, paixão, coragem e energia vital.",
   "preco" : 149,
   "imagens" : [ "https://cdn.jsdelivr.net/gh/PatrickMaiak/mandaura-media@main/img15cm/mandala-vermelha-e-amarela-15cm.jpg", "https://cdn.jsdelivr.net/gh/PatrickMaiak/mandaura-media@main/img15cm/esp.-15cm-amarelo.jpg" ],
-  "video" : "https://cdn.jsdelivr.net/gh/PatrickMaiak/mandaura-media@main/videos15cm/mandala-coracao-de-fogo-15.mp4"
+  "video" : "https://cdn.jsdelivr.net/gh/PatrickMaiak/mandaura-media@main/videos15cm/mandala-coracao-de-fogo-15.mp4",
+  "thumbs" : [ "https://cdn.jsdelivr.net/gh/PatrickMaiak/mandaura-media@main/thumb15cm/mandala-vermelha-e-amarela-15cm.webp", "https://cdn.jsdelivr.net/gh/PatrickMaiak/mandaura-media@main/thumb15cm/esp.-15cm-amarelo.webp" ]
 }, {
   "id" : 25,
   "disponibilidade" : false,
@@ -231,7 +256,8 @@
   "descricao" : "Representa o despertar da consciência, evolução, abertura e conexão com o novo.",
   "preco" : 149,
   "imagens" : [ "https://cdn.jsdelivr.net/gh/PatrickMaiak/mandaura-media@main/img15cm/mandala-lagarto-15cm.jpg", "https://cdn.jsdelivr.net/gh/PatrickMaiak/mandaura-media@main/img15cm/esp.-15cm-azul-claro.jpg" ],
-  "video" : "https://cdn.jsdelivr.net/gh/PatrickMaiak/mandaura-media@main/videos15cm/mandala-guardia-do-ceu-15.mp4"
+  "video" : "https://cdn.jsdelivr.net/gh/PatrickMaiak/mandaura-media@main/videos15cm/mandala-guardia-do-ceu-15.mp4",
+  "thumbs" : [ "https://cdn.jsdelivr.net/gh/PatrickMaiak/mandaura-media@main/thumb15cm/mandala-lagarto-15cm.webp", "https://cdn.jsdelivr.net/gh/PatrickMaiak/mandaura-media@main/thumb15cm/esp.-15cm-azul-claro.webp" ]
 }, {
   "id" : 26,
   "disponibilidade" : true,
@@ -240,7 +266,8 @@
   "descricao" : "Representa luz, vitalidade, alegria e energia interior.",
   "preco" : 149,
   "imagens" : [ "https://cdn.jsdelivr.net/gh/PatrickMaiak/mandaura-media@main/img15cm/mandala-do-palhaco-15cm.jpg", "https://cdn.jsdelivr.net/gh/PatrickMaiak/mandaura-media@main/img15cm/esp.-15cm-verde.jpg" ],
-  "video" : "https://cdn.jsdelivr.net/gh/PatrickMaiak/mandaura-media@main/videos15cm/mandala-alegria-solar-15.mp4"
+  "video" : "https://cdn.jsdelivr.net/gh/PatrickMaiak/mandaura-media@main/videos15cm/mandala-alegria-solar-15.mp4",
+  "thumbs" : [ "https://cdn.jsdelivr.net/gh/PatrickMaiak/mandaura-media@main/thumb15cm/mandala-do-palhaco-15cm.webp", "https://cdn.jsdelivr.net/gh/PatrickMaiak/mandaura-media@main/thumb15cm/esp.-15cm-verde.webp" ]
 }, {
   "id" : 27,
   "disponibilidade" : false,
@@ -249,7 +276,8 @@
   "descricao" : "Representa luz, vitalidade, alegria e energia interior.",
   "preco" : 149,
   "imagens" : [ "https://cdn.jsdelivr.net/gh/PatrickMaiak/mandaura-media@main/img15cm/mandala-do-sol-15cm.jpg", "https://cdn.jsdelivr.net/gh/PatrickMaiak/mandaura-media@main/img15cm/esp.-15cm-verde.jpg" ],
-  "video" : "https://cdn.jsdelivr.net/gh/PatrickMaiak/mandaura-media@main/videos15cm/mandala-do-sol-15.mp4"
+  "video" : "https://cdn.jsdelivr.net/gh/PatrickMaiak/mandaura-media@main/videos15cm/mandala-do-sol-15.mp4",
+  "thumbs" : [ "https://cdn.jsdelivr.net/gh/PatrickMaiak/mandaura-media@main/thumb15cm/mandala-do-sol-15cm.webp", "https://cdn.jsdelivr.net/gh/PatrickMaiak/mandaura-media@main/thumb15cm/esp.-15cm-verde.webp" ]
 }, {
   "id" : 28,
   "disponibilidade" : true,
@@ -258,7 +286,8 @@
   "descricao" : "Representa leveza, calma, fluidez e renovação.",
   "preco" : 149,
   "imagens" : [ "https://cdn.jsdelivr.net/gh/PatrickMaiak/mandaura-media@main/img15cm/mandala-estrela-azul-15cm.jpg", "https://cdn.jsdelivr.net/gh/PatrickMaiak/mandaura-media@main/img15cm/esp.-15cm-azul-escuro-.jpg" ],
-  "video" : "https://cdn.jsdelivr.net/gh/PatrickMaiak/mandaura-media@main/videos15cm/mandala-sopro-azul-15.mp4"
+  "video" : "https://cdn.jsdelivr.net/gh/PatrickMaiak/mandaura-media@main/videos15cm/mandala-sopro-azul-15.mp4",
+  "thumbs" : [ "https://cdn.jsdelivr.net/gh/PatrickMaiak/mandaura-media@main/thumb15cm/mandala-estrela-azul-15cm.webp", "https://cdn.jsdelivr.net/gh/PatrickMaiak/mandaura-media@main/thumb15cm/esp.-15cm-azul-escuro-.webp" ]
 }, {
   "id" : 29,
   "disponibilidade" : true,
@@ -267,7 +296,8 @@
   "descricao" : "Representa calma, equilíbrio, paz e tranquilidade.",
   "preco" : 149,
   "imagens" : [ "https://cdn.jsdelivr.net/gh/PatrickMaiak/mandaura-media@main/img15cm/mandala-flor-azul-15cm.jpg", "https://cdn.jsdelivr.net/gh/PatrickMaiak/mandaura-media@main/img15cm/esp.-15cm-azul-claro.jpg" ],
-  "video" : "https://cdn.jsdelivr.net/gh/PatrickMaiak/mandaura-media@main/videos15cm/mandala-flor-azul-15.mp4"
+  "video" : "https://cdn.jsdelivr.net/gh/PatrickMaiak/mandaura-media@main/videos15cm/mandala-flor-azul-15.mp4",
+  "thumbs" : [ "https://cdn.jsdelivr.net/gh/PatrickMaiak/mandaura-media@main/thumb15cm/mandala-flor-azul-15cm.webp", "https://cdn.jsdelivr.net/gh/PatrickMaiak/mandaura-media@main/thumb15cm/esp.-15cm-azul-claro.webp" ]
 }, {
   "id" : 30,
   "disponibilidade" : true,
@@ -276,7 +306,8 @@
   "descricao" : "Representa felicidade, leveza, luz interior e conexão com a essência.",
   "preco" : 149,
   "imagens" : [ "https://cdn.jsdelivr.net/gh/PatrickMaiak/mandaura-media@main/img15cm/mandala-rosa-e-amarelo-15cm.jpg", "https://cdn.jsdelivr.net/gh/PatrickMaiak/mandaura-media@main/img15cm/esp.-15cm-rosa.jpg" ],
-  "video" : "https://cdn.jsdelivr.net/gh/PatrickMaiak/mandaura-media@main/videos15cm/mandala-luz-da-manha-15.mp4"
+  "video" : "https://cdn.jsdelivr.net/gh/PatrickMaiak/mandaura-media@main/videos15cm/mandala-luz-da-manha-15.mp4",
+  "thumbs" : [ "https://cdn.jsdelivr.net/gh/PatrickMaiak/mandaura-media@main/thumb15cm/mandala-rosa-e-amarelo-15cm.webp", "https://cdn.jsdelivr.net/gh/PatrickMaiak/mandaura-media@main/thumb15cm/esp.-15cm-rosa.webp" ]
 }, {
   "id" : 31,
   "disponibilidade" : true,
@@ -285,7 +316,8 @@
   "descricao" : "Representa conexão com o universo e expansão da consciência.",
   "preco" : 149,
   "imagens" : [ "https://cdn.jsdelivr.net/gh/PatrickMaiak/mandaura-media@main/img15cm/mandala-roxa-15cm.jpg", "https://cdn.jsdelivr.net/gh/PatrickMaiak/mandaura-media@main/img15cm/esp.-15cm-roxo.jpg" ],
-  "video" : "https://cdn.jsdelivr.net/gh/PatrickMaiak/mandaura-media@main/videos15cm/mandala-alma-estelar-15.mp4"
+  "video" : "https://cdn.jsdelivr.net/gh/PatrickMaiak/mandaura-media@main/videos15cm/mandala-alma-estelar-15.mp4",
+  "thumbs" : [ "https://cdn.jsdelivr.net/gh/PatrickMaiak/mandaura-media@main/thumb15cm/mandala-roxa-15cm.webp", "https://cdn.jsdelivr.net/gh/PatrickMaiak/mandaura-media@main/thumb15cm/esp.-15cm-roxo.webp" ]
 }, {
   "id" : 32,
   "disponibilidade" : true,
@@ -294,7 +326,8 @@
   "descricao" : "Representa luz, harmonia, união e o florescer do equilíbrio interior.",
   "preco" : 149,
   "imagens" : [ "https://cdn.jsdelivr.net/gh/PatrickMaiak/mandaura-media@main/img15cm/mandala-vitral-15cm.jpg", "https://cdn.jsdelivr.net/gh/PatrickMaiak/mandaura-media@main/img15cm/esp.-15cm-verde.jpg" ],
-  "video" : "https://cdn.jsdelivr.net/gh/PatrickMaiak/mandaura-media@main/videos15cm/mandala-jardim-de-luz-15.mp4"
+  "video" : "https://cdn.jsdelivr.net/gh/PatrickMaiak/mandaura-media@main/videos15cm/mandala-jardim-de-luz-15.mp4",
+  "thumbs" : [ "https://cdn.jsdelivr.net/gh/PatrickMaiak/mandaura-media@main/thumb15cm/mandala-vitral-15cm.webp", "https://cdn.jsdelivr.net/gh/PatrickMaiak/mandaura-media@main/thumb15cm/esp.-15cm-verde.webp" ]
 }, {
   "id" : 33,
   "disponibilidade" : true,
@@ -303,7 +336,8 @@
   "descricao" : "Representa crescimento, força, ancestralidade e a conexão entre céu e terra.",
   "preco" : 129,
   "imagens" : [ "https://cdn.jsdelivr.net/gh/patrickmaiak/mandaura-media/img30cm/mandalaarvoredavida301.jpg", "https://cdn.jsdelivr.net/gh/PatrickMaiak/mandaura-media@main/img15cm/esp.-7-chakras.jpg" ],
-  "video" : "https://cdn.jsdelivr.net/gh/PatrickMaiak/mandaura-media@main/videos15cm/mandala-arvore-da-vida-15.mp4"
+  "video" : "https://cdn.jsdelivr.net/gh/PatrickMaiak/mandaura-media@main/videos15cm/mandala-arvore-da-vida-15.mp4",
+  "thumbs" : [ "https://cdn.jsdelivr.net/gh/patrickmaiak/mandaura-media/thumb30cm/mandalaarvoredavida301.webp", "https://cdn.jsdelivr.net/gh/PatrickMaiak/mandaura-media@main/thumb15cm/esp.-7-chakras.webp" ]
 }, {
   "id" : 34,
   "disponibilidade" : true,
@@ -312,7 +346,8 @@
   "descricao" : "Representa otimismo, renovação, alegria e conexão com a luz.",
   "preco" : 99,
   "imagens" : [ "https://cdn.jsdelivr.net/gh/PatrickMaiak/mandaura-media@main/img11cm/mandala-girassol-11cm.jpg", "https://cdn.jsdelivr.net/gh/PatrickMaiak/mandaura-media@main/img15cm/esp.-15cm-verde.jpg" ],
-  "video" : "https://cdn.jsdelivr.net/gh/PatrickMaiak/mandaura-media@main/videos11cm/mandala-girassol-11.mp4"
+  "video" : "https://cdn.jsdelivr.net/gh/PatrickMaiak/mandaura-media@main/videos11cm/mandala-girassol-11.mp4",
+  "thumbs" : [ "https://cdn.jsdelivr.net/gh/PatrickMaiak/mandaura-media@main/thumb11cm/mandala-girassol-11cm.webp", "https://cdn.jsdelivr.net/gh/PatrickMaiak/mandaura-media@main/thumb15cm/esp.-15cm-verde.webp" ]
 }, {
   "id" : 35,
   "disponibilidade" : true,
@@ -321,7 +356,8 @@
   "descricao" : "Representa autoconhecimento, introspecção e conexão interior.",
   "preco" : 99,
   "imagens" : [ "https://cdn.jsdelivr.net/gh/PatrickMaiak/mandaura-media@main/img11cm/mandala-flor-azul-e-branco.jpg", "https://cdn.jsdelivr.net/gh/PatrickMaiak/mandaura-media@main/img15cm/esp.-15cm-azul-escuro-.jpg" ],
-  "video" : "https://cdn.jsdelivr.net/gh/PatrickMaiak/mandaura-media@main/videos11cm/mandala-portal-azul-11.mp4"
+  "video" : "https://cdn.jsdelivr.net/gh/PatrickMaiak/mandaura-media@main/videos11cm/mandala-portal-azul-11.mp4",
+  "thumbs" : [ "https://cdn.jsdelivr.net/gh/PatrickMaiak/mandaura-media@main/thumb11cm/mandala-flor-azul-e-branco.webp", "https://cdn.jsdelivr.net/gh/PatrickMaiak/mandaura-media@main/thumb15cm/esp.-15cm-azul-escuro-.webp" ]
 }, {
   "id" : 36,
   "disponibilidade" : true,
@@ -330,7 +366,8 @@
   "descricao" : "Representa equilíbrio, serenidade e a harmonia entre o interior e o exterior.",
   "preco" : 99,
   "imagens" : [ "https://cdn.jsdelivr.net/gh/PatrickMaiak/mandaura-media@main/img11cm/mandala-azul-e-verde-11cm.jpg", "https://cdn.jsdelivr.net/gh/PatrickMaiak/mandaura-media@main/img15cm/esp.-15cm-azul-escuro-.jpg" ],
-  "video" : "https://cdn.jsdelivr.net/gh/PatrickMaiak/mandaura-media@main/videos11cm/mandala-harmonia-celeste-11.mp4"
+  "video" : "https://cdn.jsdelivr.net/gh/PatrickMaiak/mandaura-media@main/videos11cm/mandala-harmonia-celeste-11.mp4",
+  "thumbs" : [ "https://cdn.jsdelivr.net/gh/PatrickMaiak/mandaura-media@main/thumb11cm/mandala-azul-e-verde-11cm.webp", "https://cdn.jsdelivr.net/gh/PatrickMaiak/mandaura-media@main/thumb15cm/esp.-15cm-azul-escuro-.webp" ]
 }, {
   "id" : 37,
   "disponibilidade" : true,
@@ -339,7 +376,8 @@
   "descricao" : "Representa energia, alegria e força vital.",
   "preco" : 99,
   "imagens" : [ "https://cdn.jsdelivr.net/gh/PatrickMaiak/mandaura-media@main/img11cm/mandala-colorida-11cm.jpg", "https://cdn.jsdelivr.net/gh/PatrickMaiak/mandaura-media@main/img15cm/esp.-15cm-amarelo.jpg" ],
-  "video" : "https://cdn.jsdelivr.net/gh/PatrickMaiak/mandaura-media@main/videos11cm/mandala-essencia-da-vitalidade-11.mp4"
+  "video" : "https://cdn.jsdelivr.net/gh/PatrickMaiak/mandaura-media@main/videos11cm/mandala-essencia-da-vitalidade-11.mp4",
+  "thumbs" : [ "https://cdn.jsdelivr.net/gh/PatrickMaiak/mandaura-media@main/thumb11cm/mandala-colorida-11cm.webp", "https://cdn.jsdelivr.net/gh/PatrickMaiak/mandaura-media@main/thumb15cm/esp.-15cm-amarelo.webp" ]
 }, {
   "id" : 38,
   "disponibilidade" : true,
@@ -348,7 +386,8 @@
   "descricao" : "Representa luz, vitalidade, alegria e energia interior.",
   "preco" : 99,
   "imagens" : [ "https://cdn.jsdelivr.net/gh/PatrickMaiak/mandaura-media@main/img11cm/mandala-do-sol-11cm.jpg", "https://cdn.jsdelivr.net/gh/PatrickMaiak/mandaura-media@main/img15cm/esp.-15cm-verde.jpg" ],
-  "video" : "https://cdn.jsdelivr.net/gh/PatrickMaiak/mandaura-media@main/videos11cm/mandala-do-sol-11.mp4"
+  "video" : "https://cdn.jsdelivr.net/gh/PatrickMaiak/mandaura-media@main/videos11cm/mandala-do-sol-11.mp4",
+  "thumbs" : [ "https://cdn.jsdelivr.net/gh/PatrickMaiak/mandaura-media@main/thumb11cm/mandala-do-sol-11cm.webp", "https://cdn.jsdelivr.net/gh/PatrickMaiak/mandaura-media@main/thumb15cm/esp.-15cm-verde.webp" ]
 }, {
   "id" : 39,
   "disponibilidade" : true,
@@ -357,7 +396,8 @@
   "descricao" : "Representa proteção, consciência, intuição e conexão com o universo.",
   "preco" : 99,
   "imagens" : [ "https://cdn.jsdelivr.net/gh/PatrickMaiak/mandaura-media@main/img11cm/mandala-olho-azul-e-amarelo-11cm.jpg", "https://cdn.jsdelivr.net/gh/PatrickMaiak/mandaura-media@main/img15cm/esp.-15cm-azul-escuro-.jpg" ],
-  "video" : "https://cdn.jsdelivr.net/gh/PatrickMaiak/mandaura-media@main/videos11cm/mandala-olho-do-cosmos-11.mp4"
+  "video" : "https://cdn.jsdelivr.net/gh/PatrickMaiak/mandaura-media@main/videos11cm/mandala-olho-do-cosmos-11.mp4",
+  "thumbs" : [ "https://cdn.jsdelivr.net/gh/PatrickMaiak/mandaura-media@main/thumb11cm/mandala-olho-azul-e-amarelo-11cm.webp", "https://cdn.jsdelivr.net/gh/PatrickMaiak/mandaura-media@main/thumb15cm/esp.-15cm-azul-escuro-.webp" ]
 }, {
   "id" : 40,
   "disponibilidade" : true,
@@ -366,7 +406,8 @@
   "descricao" : "Representa proteção e boas vibrações.",
   "preco" : 99,
   "imagens" : [ "https://cdn.jsdelivr.net/gh/PatrickMaiak/mandaura-media@main/img11cm/mandala-olho-grego-11cm.jpg", "https://cdn.jsdelivr.net/gh/PatrickMaiak/mandaura-media@main/img15cm/esp.-15cm-azul-claro.jpg" ],
-  "video" : "https://cdn.jsdelivr.net/gh/PatrickMaiak/mandaura-media@main/videos11cm/mandala-olho-grego-11.mp4"
+  "video" : "https://cdn.jsdelivr.net/gh/PatrickMaiak/mandaura-media@main/videos11cm/mandala-olho-grego-11.mp4",
+  "thumbs" : [ "https://cdn.jsdelivr.net/gh/PatrickMaiak/mandaura-media@main/thumb11cm/mandala-olho-grego-11cm.webp", "https://cdn.jsdelivr.net/gh/PatrickMaiak/mandaura-media@main/thumb15cm/esp.-15cm-azul-claro.webp" ]
 }, {
   "id" : 41,
   "disponibilidade" : false,
@@ -375,7 +416,8 @@
   "descricao" : "Representa leveza, liberdade e clareza.",
   "preco" : 99,
   "imagens" : [ "https://cdn.jsdelivr.net/gh/PatrickMaiak/mandaura-media@main/img11cm/mandala-azul-e-vermelho-11cm.jpg", "https://cdn.jsdelivr.net/gh/PatrickMaiak/mandaura-media@main/img15cm/esp.-15cm-azul-claro.jpg" ],
-  "video" : "https://cdn.jsdelivr.net/gh/PatrickMaiak/mandaura-media@main/videos11cm/mandala-essencia-do-ceu-11.mp4"
+  "video" : "https://cdn.jsdelivr.net/gh/PatrickMaiak/mandaura-media@main/videos11cm/mandala-essencia-do-ceu-11.mp4",
+  "thumbs" : [ "https://cdn.jsdelivr.net/gh/PatrickMaiak/mandaura-media@main/thumb11cm/mandala-azul-e-vermelho-11cm.webp", "https://cdn.jsdelivr.net/gh/PatrickMaiak/mandaura-media@main/thumb15cm/esp.-15cm-azul-claro.webp" ]
 }, {
   "id" : 42,
   "disponibilidade" : true,
@@ -384,7 +426,8 @@
   "descricao" : "Representa estabilidade, presença e força.",
   "preco" : 99,
   "imagens" : [ "https://cdn.jsdelivr.net/gh/PatrickMaiak/mandaura-media@main/img11cm/mandala-vermelha-e-verde-11cm.jpg", "https://cdn.jsdelivr.net/gh/PatrickMaiak/mandaura-media@main/img15cm/esp.-15cm-vermelho.jpg" ],
-  "video" : "https://cdn.jsdelivr.net/gh/PatrickMaiak/mandaura-media@main/videos11cm/mandala-essencia-da-terra-11.mp4"
+  "video" : "https://cdn.jsdelivr.net/gh/PatrickMaiak/mandaura-media@main/videos11cm/mandala-essencia-da-terra-11.mp4",
+  "thumbs" : [ "https://cdn.jsdelivr.net/gh/PatrickMaiak/mandaura-media@main/thumb11cm/mandala-vermelha-e-verde-11cm.webp", "https://cdn.jsdelivr.net/gh/PatrickMaiak/mandaura-media@main/thumb15cm/esp.-15cm-vermelho.webp" ]
 }, {
   "id" : 43,
   "disponibilidade" : true,
@@ -393,7 +436,8 @@
   "descricao" : "Representa beleza, autoconfiança e a expressão da própria essência.",
   "preco" : 99,
   "imagens" : [ "https://cdn.jsdelivr.net/gh/PatrickMaiak/mandaura-media@main/img11cm/mandala-pavao-11cm.jpg", "https://cdn.jsdelivr.net/gh/PatrickMaiak/mandaura-media@main/img15cm/esp.-15cm-azul-claro.jpg" ],
-  "video" : "https://cdn.jsdelivr.net/gh/PatrickMaiak/mandaura-media@main/videos11cm/mandala-do-pavao.mp4"
+  "video" : "https://cdn.jsdelivr.net/gh/PatrickMaiak/mandaura-media@main/videos11cm/mandala-do-pavao.mp4",
+  "thumbs" : [ "https://cdn.jsdelivr.net/gh/PatrickMaiak/mandaura-media@main/thumb11cm/mandala-pavao-11cm.webp", "https://cdn.jsdelivr.net/gh/PatrickMaiak/mandaura-media@main/thumb15cm/esp.-15cm-azul-claro.webp" ]
 }, {
   "id" : 44,
   "disponibilidade" : true,
@@ -402,7 +446,8 @@
   "descricao" : "Representa calma, equilíbrio e clareza interior.",
   "preco" : 99,
   "imagens" : [ "https://cdn.jsdelivr.net/gh/PatrickMaiak/mandaura-media@main/img11cm/mandala-oceano-interior-11cm.jpg", "https://cdn.jsdelivr.net/gh/PatrickMaiak/mandaura-media@main/img15cm/esp.-15cm-azul-claro.jpg" ],
-  "video" : "https://cdn.jsdelivr.net/gh/PatrickMaiak/mandaura-media@main/videos11cm/mandala-azul.mp4"
+  "video" : "https://cdn.jsdelivr.net/gh/PatrickMaiak/mandaura-media@main/videos11cm/mandala-azul.mp4",
+  "thumbs" : [ "https://cdn.jsdelivr.net/gh/PatrickMaiak/mandaura-media@main/thumb11cm/mandala-oceano-interior-11cm.webp", "https://cdn.jsdelivr.net/gh/PatrickMaiak/mandaura-media@main/thumb15cm/esp.-15cm-azul-claro.webp" ]
 }, {
   "id" : 45,
   "disponibilidade" : true,
@@ -411,7 +456,8 @@
   "descricao" : "Representa recomeço, esperança e renovação.",
   "preco" : 99,
   "imagens" : [ "https://cdn.jsdelivr.net/gh/PatrickMaiak/mandaura-media@main/img11cm/mandala-flor-da-aurora-11cm.jpg", "https://cdn.jsdelivr.net/gh/PatrickMaiak/mandaura-media@main/img15cm/esp.-15cm-roxo.jpg" ],
-  "video" : "https://cdn.jsdelivr.net/gh/PatrickMaiak/mandaura-media@main/videos11cm/mandala-flor-da-aurora-11.mp4"
+  "video" : "https://cdn.jsdelivr.net/gh/PatrickMaiak/mandaura-media@main/videos11cm/mandala-flor-da-aurora-11.mp4",
+  "thumbs" : [ "https://cdn.jsdelivr.net/gh/PatrickMaiak/mandaura-media@main/thumb11cm/mandala-flor-da-aurora-11cm.webp", "https://cdn.jsdelivr.net/gh/PatrickMaiak/mandaura-media@main/thumb15cm/esp.-15cm-roxo.webp" ]
 }, {
   "id" : 47,
   "disponibilidade" : true,
@@ -420,5 +466,6 @@
   "descricao" : "Representa o despertar da consciência, evolução, abertura e conexão com o novo.",
   "preco" : 99,
   "imagens" : [ "https://cdn.jsdelivr.net/gh/PatrickMaiak/mandaura-media@main/img11cm/mandalaexpansao11cm.jpg", "https://cdn.jsdelivr.net/gh/PatrickMaiak/mandaura-media@main/img15cm/esp.-15cm-azul-claro.jpg" ],
-  "video" : "https://cdn.jsdelivr.net/gh/PatrickMaiak/mandaura-media@main/videos11cm/mandala-expancao.mp4"
+  "video" : "https://cdn.jsdelivr.net/gh/PatrickMaiak/mandaura-media@main/videos11cm/mandala-expancao.mp4",
+  "thumbs" : [ "https://cdn.jsdelivr.net/gh/PatrickMaiak/mandaura-media@main/thumb11cm/mandalaexpansao11cm.webp", "https://cdn.jsdelivr.net/gh/PatrickMaiak/mandaura-media@main/thumb15cm/esp.-15cm-azul-claro.webp" ]
 } ]
