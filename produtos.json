@@ -72,7 +72,7 @@
   "video" : "https://cdn.jsdelivr.net/gh/PatrickMaiak/mandaura-media@main/videos30cm/mandala-do-pavao-30.mp4"
 }, {
   "id" : 9,
-  "disponibilidade" : true,
+  "disponibilidade" : false,
   "titulo" : "Mandala do Sol",
   "tamanho" : "30 cm",
   "descricao" : "Representa luz, vitalidade, alegria e energia interior.",
@@ -117,7 +117,7 @@
   "video" : "https://cdn.jsdelivr.net/gh/PatrickMaiak/mandaura-media@main/videos30cm/mandala-energia-oculta.mp4"
 }, {
   "id" : 14,
-  "disponibilidade" : true,
+  "disponibilidade" : false,
   "titulo" : "Mandala Flor do Amor",
   "tamanho" : "30 cm",
   "descricao" : "Representa amor, acolhimento, conexão emocional e abertura do coração.",
