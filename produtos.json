@@ -124,6 +124,15 @@
   "preco" : 129,
   "imagens" : [ "https://cdn.jsdelivr.net/gh/patrickmaiak/mandaura-media/img15cm/mandala-flor-de-lotus-furta-15cm-.jpg", "https://cdn.jsdelivr.net/gh/PatrickMaiak/mandaura-media@main/img15cm/pendulo-gota.jpg" ],
   "video" : "https://cdn.jsdelivr.net/gh/PatrickMaiak/mandaura-media@main/videos15cm/mandala-flor-de-lotus-furta-cor-15.mp4"
+},{
+  "id" : 33,
+  "disponibilidade" : true,
+  "titulo" : "Mandala Árvore da Vida",
+  "tamanho" : "15 cm",
+  "descricao" : "Representa crescimento, força, ancestralidade e a conexão entre céu e terra.",
+  "preco" : 129,
+  "imagens" : [ "https://cdn.jsdelivr.net/gh/patrickmaiak/mandaura-media/img30cm/mandalaarvoredavida301.jpg", "https://cdn.jsdelivr.net/gh/PatrickMaiak/mandaura-media@main/img15cm/esp.-7-chakras.jpg" ],
+  "video" : "https://cdn.jsdelivr.net/gh/PatrickMaiak/mandaura-media@main/videos15cm/mandala-arvore-da-vida-15.mp4"
 }, {
   "id" : 23,
   "disponibilidade" : true,
@@ -215,14 +224,14 @@
   "imagens" : [ "https://cdn.jsdelivr.net/gh/PatrickMaiak/mandaura-media@main/img15cm/mandala-vitral-15cm.jpg", "https://cdn.jsdelivr.net/gh/PatrickMaiak/mandaura-media@main/img15cm/esp.-15cm-verde.jpg" ],
   "video" : "https://cdn.jsdelivr.net/gh/PatrickMaiak/mandaura-media@main/videos15cm/mandala-jardim-de-luz-15.mp4"
 }, {
-  "id" : 33,
+  "id" : 11,
   "disponibilidade" : true,
-  "titulo" : "Mandala Árvore da Vida",
-  "tamanho" : "15 cm",
-  "descricao" : "Representa crescimento, força, ancestralidade e a conexão entre céu e terra.",
-  "preco" : 129,
-  "imagens" : [ "https://cdn.jsdelivr.net/gh/patrickmaiak/mandaura-media/img30cm/mandalaarvoredavida301.jpg", "https://cdn.jsdelivr.net/gh/PatrickMaiak/mandaura-media@main/img15cm/esp.-7-chakras.jpg" ],
-  "video" : "https://cdn.jsdelivr.net/gh/PatrickMaiak/mandaura-media@main/videos15cm/mandala-arvore-da-vida-15.mp4"
+  "titulo" : "Mandala Flor De Lótus",
+  "tamanho" : "30 cm",
+  "descricao" : "Representa renascimento, superação, pureza e evolução espiritual.",
+  "preco" : 229,
+  "imagens" : [ "https://cdn.jsdelivr.net/gh/patrickmaiak/mandaura-media/img30cm/mandalaflordelotusde301.jpg", "https://cdn.jsdelivr.net/gh/PatrickMaiak/mandaura-media@main/img15cm/esp.-7-chakras.jpg" ],
+  "video" : "https://cdn.jsdelivr.net/gh/PatrickMaiak/mandaura-media@main/videos30cm/mandala-flor-de-lotus-30.mp4"
 }, {
   "id" : 10,
   "disponibilidade" : true,
@@ -233,6 +242,15 @@
   "imagens" : [ "https://cdn.jsdelivr.net/gh/patrickmaiak/mandaura-media/img30cm/mandalaarvoredavida301.jpg", "https://cdn.jsdelivr.net/gh/PatrickMaiak/mandaura-media@main/img15cm/esp.-7-chakras.jpg" ],
   "video" : "https://cdn.jsdelivr.net/gh/PatrickMaiak/mandaura-media@main/videos30cm/mandala-arvore-da-vida-30.mp4"
 }, {
+  "id" : 46,
+  "disponibilidade" : true,
+  "titulo" : "Mandala Mão De Fátima",
+  "tamanho" : "30 cm",
+  "descricao" : "Representa proteção, equilíbrio, força e boas vibrações.",
+  "preco" : 229,
+  "imagens" : [ "https://cdn.jsdelivr.net/gh/patrickmaiak/mandaura-media/img30cm/maodefatimade302.jpg", "https://cdn.jsdelivr.net/gh/PatrickMaiak/mandaura-media@main/img15cm/esp.-7-chakras.jpg" ],
+  "video" : "https://cdn.jsdelivr.net/gh/PatrickMaiak/mandaura-media@main/videos30cm/mao-de-fatima-30-2.mp4"
+},{
   "id" : 2,
   "disponibilidade" : true,
   "titulo" : "Mandala Harmonia Celeste",
@@ -314,15 +332,6 @@
   "imagens" : [ "https://cdn.jsdelivr.net/gh/patrickmaiak/mandaura-media/img30cm/mandalaflorazul1.jpg", "https://cdn.jsdelivr.net/gh/patrickmaiak/mandaura-media/img30cm/mandalaflorazul2.jpg", "https://cdn.jsdelivr.net/gh/PatrickMaiak/mandaura-media@main/img30cm/esp.-20cm-azul-escuro.jpg" ],
   "video" : "https://cdn.jsdelivr.net/gh/PatrickMaiak/mandaura-media@main/videos30cm/mandala-flor-azul-30.mp4"
 }, {
-  "id" : 11,
-  "disponibilidade" : true,
-  "titulo" : "Mandala Flor De Lótus",
-  "tamanho" : "30 cm",
-  "descricao" : "Representa renascimento, superação, pureza e evolução espiritual.",
-  "preco" : 229,
-  "imagens" : [ "https://cdn.jsdelivr.net/gh/patrickmaiak/mandaura-media/img30cm/mandalaflordelotusde301.jpg", "https://cdn.jsdelivr.net/gh/PatrickMaiak/mandaura-media@main/img15cm/esp.-7-chakras.jpg" ],
-  "video" : "https://cdn.jsdelivr.net/gh/PatrickMaiak/mandaura-media@main/videos30cm/mandala-flor-de-lotus-30.mp4"
-}, {
   "id" : 12,
   "disponibilidade" : false,
   "titulo" : "Mandala Girassol",
@@ -403,15 +412,6 @@
   "preco" : 249,
   "imagens" : [ "https://cdn.jsdelivr.net/gh/patrickmaiak/mandaura-media/img30cm/mandalavermelhoeverde1.jpg", "https://cdn.jsdelivr.net/gh/patrickmaiak/mandaura-media/img30cm/mandalavermelhoeverde2.jpg", "https://cdn.jsdelivr.net/gh/PatrickMaiak/mandaura-media@main/img30cm/esp.-20cm-vermelho.jpg" ],
   "video" : "https://cdn.jsdelivr.net/gh/PatrickMaiak/mandaura-media@main/videos30cm/mandala-essencia-da-terra-30.mp4"
-}, {
-  "id" : 46,
-  "disponibilidade" : true,
-  "titulo" : "Mandala Mão De Fátima",
-  "tamanho" : "30 cm",
-  "descricao" : "Representa proteção, equilíbrio, força e boas vibrações.",
-  "preco" : 229,
-  "imagens" : [ "https://cdn.jsdelivr.net/gh/patrickmaiak/mandaura-media/img30cm/maodefatimade302.jpg", "https://cdn.jsdelivr.net/gh/PatrickMaiak/mandaura-media@main/img15cm/esp.-7-chakras.jpg" ],
-  "video" : "https://cdn.jsdelivr.net/gh/PatrickMaiak/mandaura-media@main/videos30cm/mao-de-fatima-30-2.mp4"
 }, {
   "id" : 21,
   "disponibilidade" : false,
