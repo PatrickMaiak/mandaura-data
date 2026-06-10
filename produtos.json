@@ -152,7 +152,7 @@
   "preco" : 129,
   "imagens" : [ "https://cdn.jsdelivr.net/gh/patrickmaiak/mandaura-media/img15cm/mandala-flor-de-lotus-furta-15cm-.jpg", "https://cdn.jsdelivr.net/gh/PatrickMaiak/mandaura-media@main/img15cm/pendulo-gota.jpg" ],
   "video" : "https://cdn.jsdelivr.net/gh/PatrickMaiak/mandaura-media@main/videos15cm/mandala-flor-de-lotus-furta-cor-15.mp4"
-},{
+}, {
   "id" : 33,
   "bumps" : [],
   "categoria" : "mandala",
@@ -306,7 +306,7 @@
   "preco" : 229,
   "imagens" : [ "https://cdn.jsdelivr.net/gh/patrickmaiak/mandaura-media/img30cm/maodefatimade302.jpg", "https://cdn.jsdelivr.net/gh/PatrickMaiak/mandaura-media@main/img15cm/esp.-7-chakras.jpg" ],
   "video" : "https://cdn.jsdelivr.net/gh/PatrickMaiak/mandaura-media@main/videos30cm/mao-de-fatima-30-2.mp4"
-},{
+}, {
   "id" : 2,
   "bumps" : [],
   "categoria" : "mandala",
@@ -526,7 +526,7 @@
   "preco": 30,
   "imagens": [],
   "video": ""
- {
+}, {
   "id": 113,
   "bumps": [],
   "categoria": "espiral",
@@ -537,7 +537,7 @@
   "preco": 45,
   "imagens": [],
   "video": ""
-},{
+}, {
   "id": 114,
   "categoria": "chaveiro",
   "disponibilidade": false,
@@ -548,7 +548,7 @@
   "imagens": [],
   "video": "",
   "bumps": []
-},{
+}, {
   "id": 133,
   "categoria": "ceramica",
   "disponibilidade": false,
