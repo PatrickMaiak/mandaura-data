@@ -343,7 +343,7 @@
   "id" : 5,
   "bumps" : [],
   "categoria" : "mandala",
-  "disponibilidade" : false,
+  "disponibilidade" : true,
   "titulo" : "Mandala Flor de Cacto",
   "tamanho" : "30 cm",
   "descricao" : "Representa resiliência, proteção e a força de florescer mesmo em tempos difíceis.",
